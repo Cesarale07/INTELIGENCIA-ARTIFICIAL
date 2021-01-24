@@ -1,0 +1,1001 @@
+CLIENTNUM;Attrition_Flag;Customer_Age;Gender;Dependent_count;Education_Level;Marital_Status;Income_Category;Card_Category;Months_on_book;Months_Inactive_12_mon;Credit_Limit
+768805383;Existing Customer;45;M;3;High School;Married;$60K - $80K;Blue;39;1;12691
+818770008;Existing Customer;49;F;5;Graduate;Single;Less than $40K;Blue;44;1;8256
+713982108;Existing Customer;51;M;3;Graduate;Married;$80K - $120K;Blue;36;1;3418
+769911858;Existing Customer;40;F;4;High School;Unknown;Less than $40K;Blue;34;4;3313
+709106358;Existing Customer;40;M;3;Uneducated;Married;$60K - $80K;Blue;21;1;4716
+713061558;Existing Customer;44;M;2;Graduate;Married;$40K - $60K;Blue;36;1;4010
+810347208;Existing Customer;51;M;4;Unknown;Married;$120K +;Gold;46;1;34516
+818906208;Existing Customer;32;M;0;High School;Unknown;$60K - $80K;Silver;27;2;29081
+710930508;Existing Customer;37;M;3;Uneducated;Single;$60K - $80K;Blue;36;2;22352
+719661558;Existing Customer;48;M;2;Graduate;Single;$80K - $120K;Blue;36;3;11656
+708790833;Existing Customer;42;M;5;Uneducated;Unknown;$120K +;Blue;31;3;6748
+710821833;Existing Customer;65;M;1;Unknown;Married;$40K - $60K;Blue;54;2;9095
+710599683;Existing Customer;56;M;1;College;Single;$80K - $120K;Blue;36;6;11751
+816082233;Existing Customer;35;M;3;Graduate;Unknown;$60K - $80K;Blue;30;1;8547
+712396908;Existing Customer;57;F;2;Graduate;Married;Less than $40K;Blue;48;2;2436
+714885258;Existing Customer;44;M;4;Unknown;Unknown;$80K - $120K;Blue;37;1;4234
+709967358;Existing Customer;48;M;4;Post-Graduate;Single;$80K - $120K;Blue;36;2;30367
+753327333;Existing Customer;41;M;3;Unknown;Married;$80K - $120K;Blue;34;4;13535
+806160108;Existing Customer;61;M;1;High School;Married;$40K - $60K;Blue;56;2;3193
+709327383;Existing Customer;45;F;2;Graduate;Married;Unknown;Blue;37;1;14470
+806165208;Existing Customer;47;M;1;Doctorate;Divorced;$60K - $80K;Blue;42;2;20979
+708508758;Attrited Customer;62;F;0;Graduate;Married;Less than $40K;Blue;49;3;1438.3
+784725333;Existing Customer;41;M;3;High School;Married;$40K - $60K;Blue;33;2;4470
+811604133;Existing Customer;47;F;4;Unknown;Single;Less than $40K;Blue;36;3;2492
+789124683;Existing Customer;54;M;2;Unknown;Married;$80K - $120K;Blue;42;2;12217
+771071958;Existing Customer;41;F;3;Graduate;Single;Less than $40K;Blue;28;1;7768
+720466383;Existing Customer;59;M;1;High School;Unknown;$40K - $60K;Blue;46;1;14784
+804424383;Existing Customer;63;M;1;Unknown;Married;$60K - $80K;Blue;56;3;10215
+718813833;Existing Customer;44;F;3;Uneducated;Single;Unknown;Blue;34;2;10100
+806624208;Existing Customer;47;M;4;High School;Married;$40K - $60K;Blue;42;0;4785
+778348233;Existing Customer;53;M;3;Unknown;Married;$80K - $120K;Blue;33;2;2753
+712991808;Existing Customer;53;M;2;Uneducated;Married;$60K - $80K;Blue;48;5;2451
+709029408;Existing Customer;41;M;4;Graduate;Married;$60K - $80K;Blue;36;1;8923
+788658483;Existing Customer;53;F;2;College;Married;Less than $40K;Blue;38;2;2650
+787937058;Existing Customer;58;M;0;Graduate;Married;$80K - $120K;Blue;49;2;12555
+715318008;Existing Customer;55;F;1;College;Single;Less than $40K;Blue;36;2;3520
+713962233;Existing Customer;55;F;3;Graduate;Married;Less than $40K;Blue;36;2;3035
+785432733;Existing Customer;42;F;4;High School;Married;Less than $40K;Gold;36;3;15433
+715190283;Existing Customer;57;F;1;Graduate;Unknown;$40K - $60K;Blue;49;3;3672
+708300483;Attrited Customer;66;F;0;Doctorate;Married;Unknown;Blue;56;4;7882
+827111283;Existing Customer;45;M;3;Graduate;Single;$80K - $120K;Blue;41;2;32426
+758551608;Existing Customer;51;M;2;Unknown;Married;$40K - $60K;Blue;44;1;6205
+773146383;Existing Customer;50;F;1;College;Single;$40K - $60K;Silver;43;2;17304
+778493808;Existing Customer;49;M;3;High School;Married;$60K - $80K;Blue;37;2;3906
+720572508;Existing Customer;38;F;4;Graduate;Single;Unknown;Blue;28;3;9830
+712661433;Existing Customer;49;M;4;Uneducated;Single;$80K - $120K;Blue;30;2;34516
+789172683;Existing Customer;56;M;2;Doctorate;Married;$60K - $80K;Blue;45;2;2283
+738406533;Existing Customer;59;M;1;Doctorate;Married;$40K - $60K;Blue;52;2;2548
+799723908;Existing Customer;46;M;3;High School;Married;$80K - $120K;Blue;40;3;19458
+771490833;Existing Customer;52;M;1;College;Single;$80K - $120K;Blue;40;1;4745
+720756708;Existing Customer;52;F;3;Unknown;Married;Less than $40K;Blue;41;3;2622
+779471883;Attrited Customer;54;F;1;Graduate;Married;Less than $40K;Blue;40;3;1438.3
+711525033;Existing Customer;66;F;0;High School;Married;Less than $40K;Blue;54;4;3171
+712813458;Existing Customer;49;M;2;Unknown;Married;$120K +;Blue;36;2;19763
+714374133;Attrited Customer;56;M;2;Graduate;Married;$120K +;Blue;36;3;15769
+717891558;Existing Customer;49;F;4;Graduate;Unknown;Less than $40K;Blue;36;4;3298
+716632758;Existing Customer;49;F;3;Graduate;Single;Less than $40K;Blue;36;2;2802
+768563658;Existing Customer;56;M;2;Uneducated;Married;$40K - $60K;Blue;50;2;4458
+711427458;Existing Customer;44;F;5;Graduate;Married;Unknown;Blue;35;1;6273
+714091983;Existing Customer;42;M;2;High School;Single;$60K - $80K;Blue;34;4;3336
+787584108;Existing Customer;55;M;3;Unknown;Married;$80K - $120K;Blue;47;2;3436
+712030833;Attrited Customer;48;M;2;Graduate;Married;$60K - $80K;Silver;35;4;34516
+711481533;Existing Customer;39;M;1;High School;Divorced;$60K - $80K;Blue;33;3;5926
+710082708;Existing Customer;44;M;4;Post-Graduate;Single;$120K +;Blue;32;4;23957
+708155733;Existing Customer;53;M;2;High School;Single;$120K +;Blue;44;2;14734
+788979258;Existing Customer;51;M;4;Uneducated;Single;$80K - $120K;Silver;38;1;34516
+807986133;Existing Customer;57;M;2;College;Married;$60K - $80K;Blue;52;3;6584
+788730933;Existing Customer;44;F;2;Uneducated;Single;Less than $40K;Blue;20;3;2084
+711314058;Existing Customer;49;M;2;Graduate;Married;$60K - $80K;Blue;32;2;1687
+717975333;Existing Customer;50;M;2;Doctorate;Married;$80K - $120K;Blue;38;2;25300
+715971108;Existing Customer;51;M;4;Graduate;Single;$120K +;Blue;42;2;34516
+720096558;Existing Customer;55;F;2;Graduate;Married;Less than $40K;Blue;42;3;2216
+719580033;Existing Customer;54;M;1;Graduate;Unknown;$60K - $80K;Blue;43;2;2910
+820582308;Existing Customer;42;M;5;Uneducated;Married;$80K - $120K;Blue;37;2;22913
+789973308;Existing Customer;44;M;1;College;Single;$60K - $80K;Blue;35;3;24312
+712876233;Existing Customer;53;M;2;Graduate;Single;$80K - $120K;Blue;36;3;5272
+804595158;Existing Customer;44;F;4;Graduate;Single;Less than $40K;Blue;36;4;7000
+714826758;Existing Customer;37;F;3;Uneducated;Single;Less than $40K;Blue;29;4;7038
+779058108;Existing Customer;49;M;3;Graduate;Divorced;$60K - $80K;Blue;30;1;2536
+710790258;Existing Customer;47;M;2;Graduate;Married;$80K - $120K;Blue;38;3;28904
+715623483;Existing Customer;47;M;3;Graduate;Married;$60K - $80K;Blue;37;4;8567
+715156383;Existing Customer;44;M;1;Unknown;Unknown;$120K +;Blue;36;2;34516
+711013983;Attrited Customer;55;F;4;Unknown;Married;$40K - $60K;Blue;45;4;2158
+755420433;Existing Customer;59;F;1;Graduate;Married;Unknown;Blue;52;3;10133
+794543958;Existing Customer;53;M;1;Graduate;Divorced;$80K - $120K;Blue;35;4;34516
+716396358;Existing Customer;52;M;2;Graduate;Married;$60K - $80K;Blue;47;3;3085
+715398033;Existing Customer;53;M;2;High School;Single;$120K +;Blue;35;2;19040
+711743883;Existing Customer;43;F;3;Uneducated;Single;Less than $40K;Blue;35;2;4026
+719720058;Existing Customer;44;M;3;High School;Single;$60K - $80K;Blue;31;3;12756
+778992108;Existing Customer;57;M;2;Unknown;Married;$120K +;Blue;45;3;5266
+717539808;Existing Customer;51;F;2;High School;Single;Less than $40K;Blue;36;2;9930
+714070758;Existing Customer;49;M;4;High School;Single;$80K - $120K;Blue;38;3;31302
+714107958;Existing Customer;45;M;1;Graduate;Single;$40K - $60K;Blue;36;4;6576
+789140283;Existing Customer;53;M;0;Graduate;Single;$80K - $120K;Blue;42;4;2664
+715550508;Existing Customer;45;F;3;Unknown;Married;Unknown;Blue;28;1;2535
+719712633;Existing Customer;64;M;1;Graduate;Married;Less than $40K;Blue;52;4;1709
+772629333;Existing Customer;45;M;3;Graduate;Married;$40K - $60K;Blue;35;4;3454
+720336708;Existing Customer;53;M;3;Doctorate;Married;$40K - $60K;Blue;35;3;3789
+802013583;Existing Customer;56;M;3;College;Married;$120K +;Blue;50;2;9689
+711887583;Attrited Customer;47;M;2;Unknown;Married;$80K - $120K;Blue;37;3;5449
+714778833;Existing Customer;49;F;3;College;Single;Unknown;Blue;43;4;23032
+713843283;Existing Customer;41;F;3;Unknown;Married;Unknown;Silver;34;3;34516
+779155158;Existing Customer;53;M;3;Graduate;Married;$120K +;Blue;34;2;2940
+721091583;Existing Customer;44;F;2;Graduate;Single;Less than $40K;Blue;32;3;3031
+713572683;Existing Customer;44;M;3;High School;Unknown;$60K - $80K;Blue;25;3;1862
+716657058;Existing Customer;43;F;4;Post-Graduate;Married;Less than $40K;Blue;33;3;8358
+779509983;Existing Customer;53;M;2;Post-Graduate;Single;$120K +;Blue;36;1;34516
+717929133;Existing Customer;44;M;1;Uneducated;Married;$60K - $80K;Blue;36;2;14450
+808284783;Existing Customer;62;F;1;Unknown;Married;Less than $40K;Blue;56;0;1438.3
+708476808;Existing Customer;54;M;4;Unknown;Divorced;$120K +;Blue;36;3;33791
+710916408;Existing Customer;57;M;4;Graduate;Married;$60K - $80K;Blue;39;3;8466
+708492558;Existing Customer;42;M;3;Unknown;Married;$60K - $80K;Blue;36;3;15088
+799825758;Existing Customer;42;M;4;High School;Divorced;$60K - $80K;Blue;36;1;3263
+718619883;Existing Customer;54;F;0;Uneducated;Married;Less than $40K;Blue;36;2;1494
+711844758;Existing Customer;48;M;3;Graduate;Single;$80K - $120K;Blue;35;1;13551
+714798783;Existing Customer;49;M;1;Graduate;Single;$80K - $120K;Blue;36;2;18886
+826762908;Existing Customer;52;M;3;High School;Unknown;$80K - $120K;Blue;48;2;11976
+771894558;Existing Customer;50;M;3;High School;Single;$80K - $120K;Blue;39;1;9964
+721074183;Existing Customer;49;M;1;Doctorate;Married;$60K - $80K;Blue;36;6;24159
+715259583;Existing Customer;53;F;2;High School;Married;Less than $40K;Blue;44;2;5362
+718414008;Existing Customer;50;M;2;Graduate;Single;$120K +;Blue;36;2;34516
+719666283;Existing Customer;55;F;1;Doctorate;Married;Less than $40K;Blue;36;1;3174
+714877233;Existing Customer;53;M;1;High School;Married;$80K - $120K;Blue;47;2;12262
+785387883;Existing Customer;47;F;3;High School;Single;$40K - $60K;Blue;41;3;3788
+771075258;Existing Customer;55;M;2;College;Single;$120K +;Silver;42;3;34516
+711318033;Existing Customer;47;M;3;Graduate;Single;$60K - $80K;Blue;36;2;2926
+783554958;Existing Customer;58;M;4;Graduate;Single;$120K +;Blue;52;1;32090
+720201033;Attrited Customer;53;M;2;Graduate;Married;$80K - $120K;Blue;41;3;11669
+718039683;Existing Customer;52;M;2;High School;Single;$40K - $60K;Blue;45;1;13532
+710806083;Existing Customer;50;F;1;Uneducated;Unknown;Less than $40K;Silver;36;2;11888
+714752208;Existing Customer;42;F;1;Graduate;Married;Less than $40K;Blue;36;1;2393
+822063408;Existing Customer;43;M;4;Unknown;Married;$40K - $60K;Blue;39;1;6111
+714490308;Existing Customer;57;M;4;Graduate;Married;$80K - $120K;Blue;46;2;19270
+713356833;Existing Customer;52;M;1;Graduate;Married;$80K - $120K;Blue;43;1;3710
+711402333;Existing Customer;47;M;2;Doctorate;Single;Less than $40K;Blue;37;1;3235
+708296883;Existing Customer;44;F;3;Graduate;Single;$40K - $60K;Blue;38;1;11749
+719154483;Existing Customer;53;M;2;High School;Divorced;$60K - $80K;Blue;36;3;7753
+717721458;Existing Customer;45;M;4;College;Divorced;$60K - $80K;Blue;40;1;10408
+711112683;Existing Customer;63;F;1;College;Married;Unknown;Blue;36;2;3967
+715674483;Existing Customer;39;F;2;Post-Graduate;Single;Less than $40K;Blue;27;2;6205
+789322833;Attrited Customer;48;F;5;High School;Married;Less than $40K;Blue;38;3;8025
+789968058;Existing Customer;51;M;1;Unknown;Single;$120K +;Blue;42;2;9036
+709919283;Existing Customer;54;M;4;Graduate;Married;$80K - $120K;Blue;34;3;14926
+718744008;Existing Customer;59;F;1;Graduate;Single;Less than $40K;Blue;36;2;6335
+767712558;Attrited Customer;59;M;1;College;Single;$60K - $80K;Blue;53;3;14979
+712950783;Attrited Customer;48;F;4;Uneducated;Married;Less than $40K;Blue;38;2;2732
+716104983;Existing Customer;41;F;2;Graduate;Single;Less than $40K;Blue;32;3;2250
+818839983;Existing Customer;55;M;2;Graduate;Married;$120K +;Blue;50;2;10916
+772288758;Existing Customer;47;F;4;Graduate;Married;Unknown;Blue;36;1;5349
+712350858;Existing Customer;41;M;2;High School;Married;$80K - $120K;Blue;24;1;9366
+711009708;Existing Customer;40;M;3;High School;Single;$80K - $120K;Blue;28;1;21617
+712720158;Existing Customer;68;M;1;Graduate;Married;Unknown;Blue;56;2;13860
+712215258;Existing Customer;50;F;1;Graduate;Single;$40K - $60K;Silver;31;2;18386
+773827008;Existing Customer;47;M;4;Uneducated;Single;$60K - $80K;Blue;41;2;2405
+795232683;Existing Customer;53;F;1;College;Married;Less than $40K;Blue;47;2;2154
+713786508;Existing Customer;42;F;5;Unknown;Married;$40K - $60K;Blue;36;3;2038
+713539833;Existing Customer;48;F;4;High School;Single;$40K - $60K;Blue;38;1;8135
+712454058;Existing Customer;49;M;1;Doctorate;Married;$120K +;Blue;38;1;9364
+718759833;Existing Customer;44;F;2;Uneducated;Married;Unknown;Silver;35;3;32643
+718803333;Existing Customer;43;F;4;Graduate;Divorced;Less than $40K;Blue;34;3;3195
+720253908;Existing Customer;56;M;0;High School;Married;$80K - $120K;Blue;43;2;2852
+714133158;Existing Customer;59;F;1;College;Single;Unknown;Blue;36;3;4224
+713187033;Existing Customer;46;M;1;Uneducated;Married;$60K - $80K;Blue;36;2;20459
+714791208;Existing Customer;47;F;4;Unknown;Divorced;Less than $40K;Blue;41;5;3482
+772426383;Existing Customer;50;F;4;Uneducated;Married;$40K - $60K;Blue;40;2;3065
+710975883;Existing Customer;51;F;3;Uneducated;Married;Less than $40K;Blue;43;1;2185
+714264408;Existing Customer;47;F;3;Uneducated;Married;Less than $40K;Blue;36;1;1611
+715827858;Existing Customer;58;F;4;Uneducated;Married;Less than $40K;Blue;47;3;2822
+713741358;Attrited Customer;46;M;5;Graduate;Single;$80K - $120K;Blue;33;3;32975
+709531908;Existing Customer;53;M;3;High School;Married;$60K - $80K;Blue;47;2;1438.3
+716493408;Existing Customer;45;F;4;Uneducated;Divorced;Unknown;Blue;36;3;15875
+714141108;Existing Customer;52;F;1;High School;Married;Less than $40K;Blue;45;3;6703
+708953883;Attrited Customer;53;M;2;Unknown;Married;$80K - $120K;Blue;36;2;3212
+712608783;Existing Customer;50;M;2;High School;Married;$80K - $120K;Silver;45;1;34516
+820353558;Existing Customer;41;F;3;High School;Married;$40K - $60K;Blue;36;1;9797
+714964758;Existing Customer;45;F;5;Graduate;Divorced;$40K - $60K;Blue;36;2;10400
+716264358;Existing Customer;53;M;3;Uneducated;Married;$80K - $120K;Blue;42;1;26792
+717296808;Existing Customer;67;F;1;Graduate;Married;Less than $40K;Blue;56;3;3006
+712977183;Existing Customer;57;F;2;Uneducated;Single;$40K - $60K;Silver;36;3;19482
+710829108;Existing Customer;59;F;1;Uneducated;Married;$40K - $60K;Blue;36;2;3356
+779562633;Existing Customer;45;M;2;Uneducated;Married;$40K - $60K;Blue;34;2;5771
+715315833;Existing Customer;51;M;3;Graduate;Married;$80K - $120K;Blue;36;2;11106
+815500983;Existing Customer;59;F;1;Uneducated;Married;Less than $40K;Blue;54;3;2890
+719360583;Existing Customer;53;M;1;Graduate;Married;$60K - $80K;Blue;45;2;3380
+709701558;Existing Customer;47;M;3;Graduate;Married;$60K - $80K;Blue;36;1;21331
+721148358;Existing Customer;49;F;3;Uneducated;Single;Unknown;Blue;38;2;12860
+779862408;Existing Customer;49;M;3;Post-Graduate;Single;$80K - $120K;Blue;33;1;6278
+812627208;Existing Customer;60;F;0;College;Single;Less than $40K;Blue;55;1;1438.3
+711033408;Existing Customer;50;F;2;High School;Married;Less than $40K;Blue;36;1;9355
+779956608;Existing Customer;41;F;2;Post-Graduate;Married;Unknown;Blue;31;1;20758
+780376683;Existing Customer;57;M;1;Graduate;Married;$80K - $120K;Blue;47;3;14612
+717912483;Existing Customer;43;M;4;Graduate;Unknown;$80K - $120K;Blue;27;2;27259
+714454758;Existing Customer;57;F;3;Graduate;Married;Less than $40K;Blue;47;2;6347
+780466533;Existing Customer;54;M;3;Doctorate;Married;$120K +;Blue;41;3;21592
+715735233;Existing Customer;51;F;5;Post-Graduate;Married;Less than $40K;Blue;44;1;3449
+720476733;Existing Customer;47;F;3;High School;Married;Less than $40K;Blue;34;1;6028
+715872333;Existing Customer;41;M;0;High School;Unknown;$120K +;Blue;36;2;18214
+712375758;Existing Customer;53;M;3;Uneducated;Married;$80K - $120K;Blue;43;3;16393
+708868233;Attrited Customer;68;M;0;High School;Married;Less than $40K;Blue;52;3;1438.3
+718030083;Existing Customer;59;M;1;College;Married;$60K - $80K;Blue;36;1;7871
+720707283;Existing Customer;48;M;4;Unknown;Married;$80K - $120K;Blue;36;3;5288
+771698658;Existing Customer;44;M;5;Graduate;Married;$60K - $80K;Blue;32;5;11376
+748326258;Existing Customer;48;M;3;College;Married;$80K - $120K;Blue;41;5;12302
+770817783;Existing Customer;47;M;4;Graduate;Married;$60K - $80K;Silver;33;2;34516
+779353083;Existing Customer;47;M;2;Graduate;Married;$60K - $80K;Silver;32;2;34516
+711441333;Existing Customer;43;F;1;High School;Divorced;Less than $40K;Silver;35;2;10514
+719808558;Attrited Customer;55;F;2;Graduate;Married;Less than $40K;Blue;43;4;1438.3
+711551958;Attrited Customer;59;M;2;Post-Graduate;Married;$60K - $80K;Blue;46;3;1438.3
+809164083;Existing Customer;63;M;1;Graduate;Married;$40K - $60K;Blue;56;1;2619
+820596183;Existing Customer;58;M;2;College;Married;$120K +;Blue;53;3;24407
+715999608;Existing Customer;53;F;2;High School;Married;Less than $40K;Blue;36;1;2377
+710565408;Existing Customer;59;M;0;Unknown;Unknown;$80K - $120K;Silver;40;2;34516
+805543158;Existing Customer;52;M;3;Graduate;Married;$120K +;Blue;47;3;11086
+709752183;Existing Customer;48;M;3;High School;Single;$60K - $80K;Blue;36;2;11432
+716479233;Existing Customer;43;M;4;High School;Married;$40K - $60K;Blue;36;3;13258
+713837058;Existing Customer;48;M;2;College;Single;Less than $40K;Blue;36;2;2571
+718876683;Existing Customer;43;F;4;Graduate;Single;Less than $40K;Blue;31;2;5781
+770746908;Existing Customer;44;M;4;Unknown;Married;$60K - $80K;Blue;30;1;7872
+794843883;Existing Customer;41;M;3;High School;Married;$80K - $120K;Blue;35;1;34516
+803043933;Existing Customer;44;F;3;Uneducated;Divorced;Less than $40K;Silver;38;1;11127
+758076408;Existing Customer;50;M;2;Unknown;Single;$40K - $60K;Blue;43;1;1857
+714606558;Existing Customer;60;F;1;Uneducated;Married;Less than $40K;Blue;36;1;1913
+778425408;Existing Customer;44;M;4;Graduate;Single;$80K - $120K;Blue;24;3;3839
+714171108;Existing Customer;48;F;3;Graduate;Divorced;$40K - $60K;Blue;39;2;2115
+719662458;Existing Customer;44;F;2;Graduate;Divorced;Less than $40K;Blue;27;2;1438.3
+713137233;Existing Customer;41;M;2;High School;Single;$80K - $120K;Blue;28;3;27756
+769425858;Existing Customer;45;M;3;College;Single;$60K - $80K;Blue;32;1;1438.3
+711297483;Existing Customer;47;F;2;Uneducated;Divorced;Less than $40K;Silver;34;4;13878
+788900883;Existing Customer;51;F;2;Graduate;Married;Less than $40K;Blue;36;1;3106
+758348808;Existing Customer;51;M;2;Graduate;Married;$120K +;Blue;44;3;34516
+772336458;Attrited Customer;60;F;1;Uneducated;Married;$40K - $60K;Blue;50;4;1438.3
+708711483;Existing Customer;57;M;2;Unknown;Married;$80K - $120K;Blue;46;3;18871
+717906783;Existing Customer;41;M;5;Graduate;Single;$120K +;Blue;29;2;5207
+719437908;Existing Customer;44;M;3;Post-Graduate;Divorced;$80K - $120K;Blue;36;2;17965
+769433508;Existing Customer;43;M;1;College;Single;$60K - $80K;Blue;37;3;2733
+790096533;Existing Customer;55;M;2;College;Married;$60K - $80K;Blue;48;3;8863
+720997383;Attrited Customer;52;M;1;Uneducated;Married;$80K - $120K;Blue;36;3;1857
+787541883;Existing Customer;44;M;3;Graduate;Unknown;$80K - $120K;Blue;33;3;34516
+709930758;Existing Customer;41;M;2;Uneducated;Married;$40K - $60K;Blue;30;3;11107
+789830058;Existing Customer;44;M;4;Unknown;Single;$80K - $120K;Blue;34;1;21573
+710299608;Attrited Customer;53;F;2;Unknown;Married;Less than $40K;Blue;33;3;2859
+710741208;Existing Customer;39;M;2;High School;Single;$80K - $120K;Blue;36;2;5269
+821797008;Attrited Customer;49;M;5;College;Married;$40K - $60K;Blue;45;2;1438.3
+708874533;Attrited Customer;45;F;2;College;Married;Less than $40K;Blue;36;3;3387
+715341858;Existing Customer;54;M;2;Graduate;Married;$80K - $120K;Blue;46;2;1982
+793636308;Existing Customer;49;M;3;Uneducated;Single;$80K - $120K;Blue;43;2;4645
+713779908;Existing Customer;46;F;3;Doctorate;Single;Unknown;Blue;36;3;2189
+712125258;Attrited Customer;46;M;4;High School;Married;$120K +;Blue;30;3;2442
+709703433;Existing Customer;47;M;3;Graduate;Married;$60K - $80K;Blue;38;1;21304
+721022433;Existing Customer;44;M;2;Doctorate;Single;$60K - $80K;Blue;36;1;7577
+710103558;Existing Customer;50;M;3;Post-Graduate;Single;$120K +;Blue;31;1;3234
+715952883;Existing Customer;73;M;0;High School;Married;$40K - $60K;Blue;36;3;4469
+719731458;Existing Customer;56;M;3;Unknown;Unknown;$40K - $60K;Blue;46;3;2910
+772390908;Attrited Customer;59;M;0;High School;Single;$40K - $60K;Blue;48;4;3616
+787348608;Existing Customer;70;M;0;High School;Married;Less than $40K;Blue;56;2;3252
+709485033;Existing Customer;55;F;2;High School;Married;Less than $40K;Blue;36;3;2358
+715432608;Existing Customer;43;M;4;Unknown;Single;$60K - $80K;Blue;36;1;22322
+799471833;Existing Customer;45;M;1;Uneducated;Single;$120K +;Blue;39;2;3133
+714187533;Existing Customer;45;F;2;Uneducated;Single;$40K - $60K;Blue;35;3;3540
+779656908;Existing Customer;40;M;1;Graduate;Married;$40K - $60K;Blue;23;3;6990
+788950158;Existing Customer;36;M;2;College;Unknown;$80K - $120K;Blue;22;2;34516
+778867533;Attrited Customer;59;F;0;Post-Graduate;Married;$40K - $60K;Blue;40;4;1438.3
+710620383;Existing Customer;43;M;4;Unknown;Married;$60K - $80K;Blue;35;3;24396
+778661358;Existing Customer;46;F;1;Unknown;Married;Less than $40K;Blue;36;3;2474
+789483333;Existing Customer;41;M;2;Uneducated;Married;$40K - $60K;Blue;32;1;5214
+809855808;Existing Customer;51;F;2;Graduate;Married;Less than $40K;Blue;46;2;5207
+718464258;Existing Customer;51;F;3;Unknown;Unknown;Less than $40K;Blue;25;2;9512
+708528483;Existing Customer;43;F;4;Graduate;Divorced;Unknown;Blue;23;3;3187
+771809733;Attrited Customer;64;F;0;High School;Married;$40K - $60K;Blue;53;3;3353
+719942883;Existing Customer;54;M;5;Graduate;Married;$60K - $80K;Blue;38;3;2290
+807226683;Existing Customer;48;M;3;Unknown;Single;$40K - $60K;Blue;43;1;5279
+717806133;Existing Customer;40;M;2;Uneducated;Divorced;$60K - $80K;Blue;29;3;23603
+720615708;Existing Customer;57;M;0;Uneducated;Married;$40K - $60K;Blue;45;2;2601
+714511758;Existing Customer;45;M;4;Graduate;Single;$80K - $120K;Blue;40;3;6363
+715050408;Existing Customer;41;M;3;High School;Single;$80K - $120K;Blue;36;3;8029
+721132233;Existing Customer;42;F;4;Uneducated;Married;Less than $40K;Blue;31;2;2410
+719211558;Attrited Customer;45;M;2;Graduate;Single;$60K - $80K;Blue;36;1;3401
+712069008;Existing Customer;42;F;4;Uneducated;Married;Less than $40K;Blue;23;2;2260
+715996983;Existing Customer;47;M;4;Uneducated;Divorced;$80K - $120K;Blue;30;2;17682
+773466258;Existing Customer;48;F;4;High School;Married;$40K - $60K;Blue;42;1;4206
+798983508;Existing Customer;43;M;1;Graduate;Single;$80K - $120K;Silver;37;3;34516
+719117433;Existing Customer;41;M;4;High School;Unknown;$80K - $120K;Blue;36;3;23018
+716451183;Existing Customer;54;F;1;Uneducated;Married;$40K - $60K;Blue;44;2;5556
+718621608;Attrited Customer;54;F;2;High School;Married;Unknown;Blue;44;3;6094
+715085733;Existing Customer;61;M;0;Graduate;Married;$40K - $60K;Blue;52;1;2939
+788977833;Existing Customer;61;M;0;Uneducated;Married;$80K - $120K;Blue;48;1;5362
+720272958;Attrited Customer;48;M;2;High School;Married;$120K +;Blue;36;3;27126
+708421833;Existing Customer;45;F;4;Graduate;Single;Less than $40K;Blue;36;3;3342
+709173108;Attrited Customer;54;F;4;Graduate;Married;Unknown;Blue;40;2;2532
+709879458;Existing Customer;54;F;3;Doctorate;Married;Unknown;Blue;46;2;1900
+715120608;Existing Customer;44;M;3;Graduate;Single;$60K - $80K;Blue;37;3;14546
+770632758;Existing Customer;50;F;4;Doctorate;Single;Unknown;Blue;36;3;2521
+779078733;Existing Customer;55;M;2;Doctorate;Married;$60K - $80K;Blue;36;4;16427
+771742533;Existing Customer;48;M;2;Graduate;Unknown;$40K - $60K;Blue;36;1;13068
+720250158;Existing Customer;45;M;2;College;Single;$60K - $80K;Blue;33;3;23218
+716458983;Existing Customer;60;M;0;High School;Married;$40K - $60K;Blue;36;1;3281
+713747733;Existing Customer;55;M;2;High School;Married;$40K - $60K;Blue;47;3;3096
+712270158;Existing Customer;62;F;0;High School;Married;$40K - $60K;Blue;52;2;2052
+789562383;Existing Customer;38;F;1;High School;Unknown;Less than $40K;Blue;30;3;1438.3
+754897008;Existing Customer;46;M;3;High School;Single;$40K - $60K;Blue;39;3;9432
+819700533;Existing Customer;50;M;0;High School;Single;$120K +;Silver;45;2;14938
+712890408;Existing Customer;45;M;2;Uneducated;Married;$60K - $80K;Blue;36;3;2221
+720248208;Existing Customer;47;M;3;Post-Graduate;Divorced;$60K - $80K;Blue;37;3;5731
+779749908;Existing Customer;48;M;4;College;Married;$60K - $80K;Gold;33;2;34516
+717401883;Existing Customer;35;M;3;Uneducated;Married;$60K - $80K;Blue;22;2;6985
+721509558;Existing Customer;51;M;2;Graduate;Married;$120K +;Blue;42;3;24221
+710572458;Existing Customer;36;F;3;High School;Married;Unknown;Blue;24;1;15439
+714576183;Existing Customer;47;M;4;Graduate;Single;$80K - $120K;Blue;36;3;21637
+721425558;Existing Customer;52;M;2;Graduate;Single;$120K +;Blue;37;3;14543
+711109908;Existing Customer;43;F;4;Uneducated;Married;Less than $40K;Blue;36;1;9684
+715203108;Existing Customer;63;M;2;High School;Married;$40K - $60K;Blue;36;2;5007
+710027508;Existing Customer;61;M;0;Graduate;Married;$60K - $80K;Blue;54;2;1616
+787464408;Existing Customer;53;M;2;Uneducated;Single;$60K - $80K;Blue;40;2;19116
+783542133;Existing Customer;53;F;3;Graduate;Married;Less than $40K;Blue;47;6;2759
+708330858;Attrited Customer;57;M;3;Graduate;Married;$120K +;Blue;38;3;8249
+714426783;Existing Customer;38;F;2;Graduate;Single;Unknown;Blue;31;3;14041
+712701333;Existing Customer;53;M;3;High School;Married;$60K - $80K;Blue;43;3;5264
+709494483;Existing Customer;63;F;0;Unknown;Married;Less than $40K;Blue;54;2;2420
+773373108;Existing Customer;49;F;4;High School;Married;Less than $40K;Blue;43;2;2826
+715812258;Existing Customer;45;M;2;High School;Married;$80K - $120K;Blue;34;5;12518
+778286433;Existing Customer;67;M;0;Graduate;Married;$40K - $60K;Blue;56;2;5876
+789270033;Existing Customer;48;M;3;Graduate;Single;$80K - $120K;Silver;37;2;34516
+711569433;Existing Customer;51;F;2;Uneducated;Divorced;Less than $40K;Blue;38;1;9648
+720214833;Existing Customer;52;M;2;High School;Single;$80K - $120K;Silver;40;3;34516
+709346133;Existing Customer;55;F;2;Uneducated;Married;Unknown;Blue;35;3;3025
+788194458;Existing Customer;34;M;3;High School;Married;$60K - $80K;Blue;26;3;3265
+720779733;Existing Customer;56;M;1;Uneducated;Married;$120K +;Blue;36;2;6041
+717424458;Existing Customer;44;F;2;Post-Graduate;Married;Less than $40K;Blue;36;3;2293
+708820308;Existing Customer;47;M;3;Post-Graduate;Unknown;$80K - $120K;Blue;36;2;13399
+710558058;Existing Customer;46;F;3;Unknown;Married;Less than $40K;Blue;38;3;4317
+770590758;Existing Customer;43;F;3;Graduate;Single;$40K - $60K;Blue;29;2;3378
+718490658;Existing Customer;50;F;1;Graduate;Single;Less than $40K;Blue;36;1;5012
+711985833;Existing Customer;38;F;4;Uneducated;Single;Less than $40K;Blue;30;1;2569
+708967608;Existing Customer;53;F;1;Graduate;Single;Less than $40K;Blue;45;1;3471
+718505958;Existing Customer;43;M;5;Graduate;Divorced;$120K +;Silver;31;3;34516
+715024233;Existing Customer;53;M;1;High School;Married;$120K +;Blue;36;3;3312
+779249583;Existing Customer;56;F;1;Graduate;Married;Less than $40K;Blue;38;3;2578
+709278258;Attrited Customer;54;M;2;Unknown;Married;$40K - $60K;Blue;44;3;2902
+778928283;Existing Customer;57;F;3;High School;Married;Less than $40K;Blue;39;2;2742
+712299858;Existing Customer;62;M;1;High School;Married;Less than $40K;Blue;53;3;2077
+799224108;Existing Customer;46;F;4;Graduate;Single;Less than $40K;Blue;40;1;6265
+809976033;Existing Customer;49;M;2;Uneducated;Married;$60K - $80K;Blue;44;3;7819
+716203308;Existing Customer;52;M;3;Graduate;Single;$80K - $120K;Blue;42;3;2731
+714871683;Attrited Customer;58;M;1;Uneducated;Married;$40K - $60K;Blue;36;4;1438.3
+716139933;Existing Customer;54;M;0;High School;Married;$80K - $120K;Blue;36;1;16286
+716984658;Existing Customer;49;M;1;Graduate;Married;$120K +;Blue;39;2;34516
+713086008;Existing Customer;58;F;3;High School;Married;Less than $40K;Blue;47;1;2609
+713773458;Existing Customer;52;M;2;High School;Single;$60K - $80K;Blue;45;3;7567
+719242533;Existing Customer;41;M;5;High School;Married;$60K - $80K;Blue;33;3;22770
+772712658;Existing Customer;62;F;0;Uneducated;Married;Less than $40K;Blue;50;1;3791
+788868858;Existing Customer;54;M;2;Graduate;Married;Less than $40K;Blue;39;4;2702
+811898133;Existing Customer;40;F;3;High School;Divorced;Less than $40K;Blue;35;1;2555
+788808633;Existing Customer;43;M;3;Graduate;Married;$80K - $120K;Blue;26;3;2355
+779804208;Existing Customer;53;F;2;Graduate;Single;$40K - $60K;Blue;42;2;5332
+781391058;Existing Customer;55;M;1;Uneducated;Single;$40K - $60K;Blue;49;3;1443
+790134408;Existing Customer;46;M;4;Graduate;Single;$60K - $80K;Blue;39;2;10741
+788853258;Existing Customer;41;M;1;Uneducated;Married;$60K - $80K;Blue;25;2;7984
+711857733;Existing Customer;49;M;3;Uneducated;Single;$60K - $80K;Blue;32;2;18584
+822969858;Existing Customer;61;F;0;Graduate;Married;Unknown;Blue;56;1;5585
+719554758;Existing Customer;46;M;2;Uneducated;Married;$80K - $120K;Blue;38;3;34516
+711643458;Existing Customer;50;F;1;Uneducated;Married;Less than $40K;Blue;43;3;1438.3
+788830683;Existing Customer;40;M;2;Graduate;Single;$80K - $120K;Blue;24;1;2478
+807030858;Existing Customer;51;M;4;High School;Single;$120K +;Blue;46;3;34516
+793059108;Existing Customer;50;F;2;Graduate;Married;$40K - $60K;Blue;44;2;2339
+716568708;Existing Customer;47;F;2;Graduate;Married;Less than $40K;Blue;36;3;2726
+828281733;Existing Customer;43;M;4;Unknown;Married;$120K +;Blue;39;3;14881
+717229158;Existing Customer;36;F;4;Graduate;Married;$40K - $60K;Blue;36;3;1628
+715915458;Existing Customer;47;F;2;Graduate;Married;Less than $40K;Blue;34;2;3156
+819129858;Existing Customer;46;F;2;Graduate;Single;Less than $40K;Blue;41;3;4745
+713441958;Existing Customer;46;M;2;High School;Married;$120K +;Blue;36;3;19727
+719091333;Existing Customer;52;M;0;Uneducated;Married;$60K - $80K;Blue;36;3;22720
+708666258;Existing Customer;43;M;4;Unknown;Married;$40K - $60K;Blue;36;3;8129
+714914583;Existing Customer;40;F;4;Graduate;Single;Less than $40K;Blue;27;2;3751
+714363858;Existing Customer;54;F;4;High School;Married;Less than $40K;Blue;36;5;1594
+721347408;Existing Customer;55;F;1;High School;Single;Less than $40K;Blue;43;2;2569
+809608533;Existing Customer;49;F;4;Post-Graduate;Single;Unknown;Blue;44;3;18206
+772047183;Existing Customer;45;M;4;High School;Married;$40K - $60K;Blue;34;3;3104
+714217908;Existing Customer;49;M;3;Graduate;Married;$40K - $60K;Blue;41;3;2406
+714819183;Existing Customer;63;M;1;Uneducated;Married;$80K - $120K;Blue;36;2;24571
+716455683;Existing Customer;40;F;3;High School;Single;Less than $40K;Gold;36;2;15534
+710865633;Existing Customer;41;F;2;Graduate;Married;Less than $40K;Silver;33;2;12301
+752952108;Existing Customer;37;M;4;Graduate;Married;$80K - $120K;Blue;26;2;2846
+712595433;Existing Customer;58;M;2;Uneducated;Unknown;$120K +;Blue;49;2;9788
+714982383;Existing Customer;55;M;2;High School;Married;$60K - $80K;Blue;36;3;7231
+813814008;Existing Customer;53;F;1;High School;Married;Less than $40K;Blue;48;3;2324
+794545983;Existing Customer;57;M;2;Graduate;Married;$80K - $120K;Blue;40;2;12208
+708288108;Attrited Customer;43;M;4;Post-Graduate;Unknown;$80K - $120K;Blue;30;5;5639
+715585158;Existing Customer;58;M;1;Graduate;Married;$60K - $80K;Blue;46;3;10021
+810449883;Existing Customer;64;M;0;Unknown;Married;Less than $40K;Blue;56;1;2215
+789863208;Existing Customer;54;F;2;Graduate;Married;Less than $40K;Blue;44;2;2027
+715022133;Existing Customer;53;M;2;Graduate;Married;$60K - $80K;Blue;47;2;6363
+712506708;Existing Customer;39;F;3;College;Single;Less than $40K;Blue;25;1;3920
+715699983;Existing Customer;56;M;3;High School;Married;$60K - $80K;Blue;36;1;9226
+818942433;Existing Customer;54;F;4;Unknown;Divorced;Less than $40K;Blue;49;1;9376
+712459233;Existing Customer;59;F;1;Post-Graduate;Married;$40K - $60K;Blue;46;3;1944
+716545383;Existing Customer;42;M;3;Uneducated;Single;$40K - $60K;Blue;36;1;9599
+721144383;Existing Customer;42;M;4;Graduate;Married;$60K - $80K;Silver;28;1;28202
+821837958;Existing Customer;43;M;3;College;Unknown;$80K - $120K;Blue;39;3;24850
+804359133;Existing Customer;55;M;0;High School;Married;$120K +;Blue;49;3;3805
+713308683;Existing Customer;52;M;1;Uneducated;Single;$80K - $120K;Blue;37;2;2733
+788780958;Existing Customer;46;M;1;Uneducated;Unknown;$40K - $60K;Blue;27;3;12781
+717354558;Attrited Customer;57;M;2;Uneducated;Married;$120K +;Blue;40;3;3106
+798473808;Existing Customer;48;M;3;College;Married;$80K - $120K;Blue;42;3;7477
+712372158;Existing Customer;45;M;4;Unknown;Married;$120K +;Blue;33;1;34516
+715192308;Existing Customer;48;M;2;High School;Married;$120K +;Blue;36;5;29963
+708813033;Existing Customer;47;M;1;Graduate;Single;$40K - $60K;Blue;36;3;6509
+714639783;Attrited Customer;42;M;3;College;Married;$60K - $80K;Blue;34;3;13450
+709311633;Existing Customer;41;M;2;Graduate;Unknown;$60K - $80K;Silver;36;2;27000
+709470858;Existing Customer;51;M;4;College;Married;$120K +;Silver;31;2;34516
+717292758;Existing Customer;55;F;2;Graduate;Single;Less than $40K;Blue;47;3;6347
+779241783;Existing Customer;67;M;1;Uneducated;Married;$40K - $60K;Blue;49;3;3106
+715205358;Existing Customer;39;M;1;Graduate;Married;$60K - $80K;Blue;31;1;2536
+778871508;Existing Customer;54;M;3;Post-Graduate;Single;$60K - $80K;Blue;35;3;13048
+779462433;Existing Customer;55;F;2;Unknown;Married;Less than $40K;Blue;37;3;2453
+710147958;Existing Customer;47;M;3;High School;Married;$40K - $60K;Silver;36;2;16138
+709864833;Existing Customer;49;M;2;Post-Graduate;Married;$60K - $80K;Blue;38;2;8077
+778868958;Attrited Customer;42;F;2;Graduate;Married;Less than $40K;Blue;23;3;1929
+717276708;Existing Customer;57;M;2;Unknown;Single;$80K - $120K;Blue;36;3;3127
+710004933;Existing Customer;44;M;5;Uneducated;Married;$60K - $80K;Blue;36;3;8645
+753606108;Existing Customer;56;M;3;Unknown;Single;$60K - $80K;Blue;49;1;1438.3
+710940183;Attrited Customer;49;F;3;Graduate;Married;Less than $40K;Blue;38;3;2185
+718927533;Existing Customer;45;M;3;Graduate;Single;$80K - $120K;Blue;32;2;24487
+719337408;Existing Customer;63;M;0;High School;Married;$60K - $80K;Blue;36;2;2567
+772308408;Existing Customer;44;M;3;Graduate;Single;$80K - $120K;Blue;33;3;4131
+712981383;Existing Customer;44;F;4;College;Married;Less than $40K;Silver;37;2;10790
+790099758;Existing Customer;40;M;3;High School;Married;$40K - $60K;Blue;33;3;6884
+709547658;Attrited Customer;39;M;2;Uneducated;Single;$60K - $80K;Blue;36;3;13961
+778770783;Existing Customer;42;M;4;High School;Married;$80K - $120K;Blue;30;1;29801
+713134458;Existing Customer;54;M;3;High School;Married;$120K +;Blue;43;1;13219
+712159083;Attrited Customer;58;F;4;Unknown;Married;Less than $40K;Blue;46;3;2536
+713639958;Existing Customer;46;F;4;Graduate;Divorced;Less than $40K;Blue;36;3;9478
+771180033;Existing Customer;47;F;4;Unknown;Divorced;$40K - $60K;Blue;34;1;3502
+717916758;Existing Customer;67;F;0;Unknown;Married;Unknown;Blue;56;3;10509
+711089733;Existing Customer;50;F;2;College;Divorced;Less than $40K;Blue;36;3;1491
+716988633;Existing Customer;55;M;0;High School;Divorced;$60K - $80K;Blue;46;1;9734
+779031033;Existing Customer;46;F;2;Graduate;Married;$40K - $60K;Blue;22;1;2305
+716302383;Existing Customer;47;F;4;Uneducated;Married;$40K - $60K;Blue;36;1;14241
+718281408;Existing Customer;36;F;2;Unknown;Married;$40K - $60K;Blue;25;1;4789
+721333233;Existing Customer;40;M;4;Doctorate;Divorced;$60K - $80K;Blue;34;2;23138
+794496033;Existing Customer;57;M;2;Unknown;Single;$80K - $120K;Blue;38;1;23008
+710519433;Existing Customer;48;M;1;Unknown;Divorced;$80K - $120K;Blue;36;1;3131
+814995933;Existing Customer;58;F;3;Graduate;Married;Less than $40K;Blue;53;3;5798
+721469433;Existing Customer;48;M;3;Graduate;Single;$40K - $60K;Blue;36;2;6880
+788386908;Existing Customer;48;M;3;Graduate;Unknown;$80K - $120K;Platinum;41;2;34516
+717198633;Existing Customer;53;F;2;College;Married;$40K - $60K;Blue;34;2;2075
+767695083;Existing Customer;50;M;2;Graduate;Married;$80K - $120K;Blue;44;3;4589
+711791583;Attrited Customer;52;F;1;Graduate;Single;Less than $40K;Blue;40;2;2317
+712315683;Attrited Customer;53;F;2;Uneducated;Single;Less than $40K;Blue;45;1;1981
+710038008;Existing Customer;56;F;1;Graduate;Single;$40K - $60K;Blue;47;2;6038
+789129033;Existing Customer;44;M;5;Unknown;Single;$80K - $120K;Blue;32;3;14910
+718349058;Existing Customer;49;M;3;High School;Married;$80K - $120K;Blue;39;3;29659
+789842283;Attrited Customer;54;M;2;Graduate;Married;$60K - $80K;Blue;42;3;4320
+714513033;Existing Customer;39;F;1;Unknown;Single;$40K - $60K;Blue;36;1;11213
+714717483;Existing Customer;39;F;3;Uneducated;Divorced;Unknown;Blue;29;1;26181
+714900408;Existing Customer;41;F;4;High School;Single;Less than $40K;Blue;31;1;5773
+719418933;Attrited Customer;53;M;2;Uneducated;Married;$80K - $120K;Blue;36;3;4503
+720115683;Existing Customer;47;M;3;Uneducated;Married;$80K - $120K;Blue;36;2;29770
+779504058;Existing Customer;46;F;2;Post-Graduate;Married;Less than $40K;Blue;28;1;5014
+795979833;Existing Customer;53;F;1;High School;Married;Less than $40K;Blue;47;1;3445
+717392358;Existing Customer;60;M;1;Graduate;Married;$80K - $120K;Blue;50;2;23412
+718640508;Existing Customer;59;F;0;Graduate;Single;Less than $40K;Blue;46;1;3044
+803366358;Existing Customer;38;M;1;Unknown;Single;$60K - $80K;Blue;29;2;14596
+709230708;Existing Customer;56;M;4;Uneducated;Single;Less than $40K;Blue;36;2;3864
+781794708;Attrited Customer;35;M;3;Post-Graduate;Unknown;$80K - $120K;Blue;29;1;17030
+801383808;Existing Customer;50;M;3;Graduate;Single;$60K - $80K;Blue;44;2;23090
+710677608;Existing Customer;53;M;2;Post-Graduate;Unknown;$80K - $120K;Blue;36;2;29205
+708217758;Existing Customer;63;M;2;Graduate;Married;$60K - $80K;Blue;49;2;14035
+714272658;Attrited Customer;43;F;2;Uneducated;Single;Less than $40K;Blue;24;3;2962
+717469158;Existing Customer;46;M;2;Unknown;Married;$80K - $120K;Blue;30;3;18578
+711864783;Existing Customer;61;M;1;Uneducated;Single;$60K - $80K;Blue;46;3;2201
+719407983;Existing Customer;37;F;0;Post-Graduate;Married;Less than $40K;Blue;25;3;2061
+710665533;Existing Customer;42;F;5;Doctorate;Married;Unknown;Blue;23;2;24602
+716804283;Existing Customer;41;M;2;Uneducated;Divorced;$120K +;Blue;29;2;15911
+767294658;Attrited Customer;56;M;2;College;Single;$120K +;Blue;50;2;16867
+709122483;Existing Customer;56;M;3;Graduate;Married;$60K - $80K;Blue;37;3;2783
+708241233;Attrited Customer;52;F;3;Post-Graduate;Single;Less than $40K;Blue;47;3;2972
+717860358;Existing Customer;40;F;3;High School;Single;$40K - $60K;Blue;36;3;5124
+789337233;Existing Customer;63;M;1;Graduate;Married;$40K - $60K;Blue;53;6;2880
+720902133;Existing Customer;58;M;1;High School;Single;$40K - $60K;Blue;46;1;5579
+721043058;Existing Customer;58;M;4;Unknown;Married;$60K - $80K;Blue;44;1;12010
+711870333;Existing Customer;46;M;2;Uneducated;Divorced;$80K - $120K;Blue;36;3;34516
+708398283;Existing Customer;37;F;1;Graduate;Married;$40K - $60K;Blue;29;2;4394
+715878183;Existing Customer;46;M;4;Graduate;Single;$80K - $120K;Blue;35;3;18325
+719451483;Existing Customer;46;F;4;Post-Graduate;Married;Less than $40K;Blue;37;3;3773
+709110633;Existing Customer;41;M;1;Graduate;Single;$80K - $120K;Blue;29;1;21684
+721059033;Existing Customer;48;F;3;High School;Divorced;$40K - $60K;Blue;40;1;1919
+779912283;Existing Customer;49;F;3;Graduate;Single;$40K - $60K;Blue;33;3;9995
+717701733;Existing Customer;44;M;2;Graduate;Married;$80K - $120K;Blue;35;2;11910
+709913733;Existing Customer;39;F;3;College;Married;Less than $40K;Blue;36;2;2279
+718768158;Existing Customer;57;M;1;College;Single;$40K - $60K;Blue;48;1;3539
+721375308;Existing Customer;48;M;3;High School;Married;$80K - $120K;Blue;36;1;30579
+711374283;Existing Customer;47;M;3;High School;Single;$80K - $120K;Blue;42;1;24480
+822893133;Existing Customer;56;F;1;Uneducated;Divorced;Unknown;Blue;52;1;17561
+778465533;Existing Customer;54;F;0;College;Married;Less than $40K;Blue;40;1;1638
+712138983;Existing Customer;54;M;1;Graduate;Married;$60K - $80K;Blue;36;3;2947
+716920908;Existing Customer;52;M;4;High School;Married;$80K - $120K;Blue;42;1;5738
+708095133;Existing Customer;43;M;4;Unknown;Unknown;$120K +;Blue;34;2;33304
+711195558;Existing Customer;59;M;1;College;Single;$40K - $60K;Blue;48;3;7251
+772735758;Existing Customer;44;M;1;Unknown;Married;Unknown;Blue;34;2;2885
+712024908;Existing Customer;56;F;1;College;Married;Less than $40K;Blue;36;2;2641
+778239933;Existing Customer;45;F;4;Graduate;Married;Unknown;Blue;35;3;2801
+714893733;Existing Customer;55;M;1;High School;Married;$80K - $120K;Blue;45;3;16794
+754886958;Existing Customer;48;F;3;College;Divorced;$40K - $60K;Blue;41;1;9336
+710104908;Existing Customer;56;F;5;College;Single;Less than $40K;Blue;43;1;2763
+710558883;Existing Customer;41;M;3;Uneducated;Married;$60K - $80K;Blue;36;3;17391
+713827383;Existing Customer;65;F;1;High School;Married;Less than $40K;Blue;36;2;3198
+720267033;Existing Customer;34;M;4;Post-Graduate;Single;$80K - $120K;Blue;26;3;5100
+712049208;Existing Customer;56;M;3;Post-Graduate;Married;$60K - $80K;Blue;39;1;3955
+708688608;Existing Customer;62;F;1;High School;Married;Less than $40K;Blue;48;3;3140
+716223708;Attrited Customer;45;F;3;Uneducated;Single;Unknown;Blue;36;3;4028
+713217858;Existing Customer;38;F;2;Uneducated;Single;Less than $40K;Blue;32;3;2264
+819352983;Existing Customer;49;M;3;Unknown;Unknown;$120K +;Blue;44;2;21620
+711019308;Existing Customer;58;M;2;High School;Single;$60K - $80K;Blue;45;2;6385
+768600558;Existing Customer;41;F;4;Graduate;Single;$40K - $60K;Blue;31;2;2375
+710202783;Existing Customer;33;M;2;Graduate;Married;$60K - $80K;Blue;13;3;1963
+712899333;Existing Customer;47;F;4;College;Single;Less than $40K;Blue;37;2;4256
+767036433;Existing Customer;56;F;1;Graduate;Married;Less than $40K;Blue;49;1;5097
+793473033;Existing Customer;51;M;1;Graduate;Single;$60K - $80K;Blue;45;2;3228
+721232058;Existing Customer;49;M;1;Graduate;Unknown;$40K - $60K;Silver;41;1;20231
+719443683;Attrited Customer;50;M;1;Unknown;Single;$120K +;Blue;39;2;27512
+715449333;Existing Customer;55;F;3;Unknown;Married;$40K - $60K;Blue;47;2;1929
+717998058;Existing Customer;26;M;0;Graduate;Single;Less than $40K;Blue;13;3;2585
+779610033;Attrited Customer;58;M;1;College;Married;$80K - $120K;Blue;47;3;12151
+827332983;Existing Customer;46;M;3;High School;Single;$80K - $120K;Gold;42;2;34516
+721183983;Existing Customer;48;M;4;High School;Married;$120K +;Blue;31;3;34516
+718426533;Existing Customer;42;M;4;Uneducated;Divorced;$60K - $80K;Blue;32;1;5504
+710698233;Existing Customer;37;M;4;Graduate;Married;$80K - $120K;Blue;28;1;10021
+780253533;Existing Customer;63;F;0;Unknown;Married;Less than $40K;Blue;49;3;3558
+793581933;Existing Customer;50;M;3;High School;Single;$40K - $60K;Silver;44;3;19853
+719229708;Existing Customer;41;F;1;High School;Single;$40K - $60K;Blue;31;3;4969
+715158483;Existing Customer;48;F;3;Graduate;Divorced;Less than $40K;Blue;40;2;3117
+809296308;Existing Customer;46;M;2;College;Single;$80K - $120K;Blue;41;2;21526
+778176108;Existing Customer;61;M;0;High School;Single;$60K - $80K;Blue;51;2;5504
+796532958;Existing Customer;59;F;0;Unknown;Married;Less than $40K;Blue;53;3;5512
+709345008;Attrited Customer;53;F;2;Doctorate;Married;Unknown;Blue;39;2;1438.3
+717049533;Existing Customer;39;F;3;Doctorate;Unknown;$40K - $60K;Blue;28;3;7262
+719366358;Existing Customer;51;M;3;High School;Married;$120K +;Blue;40;3;7319
+721417233;Attrited Customer;45;M;2;Graduate;Married;$60K - $80K;Blue;25;5;1438.3
+711622683;Existing Customer;48;M;4;Unknown;Single;$60K - $80K;Blue;30;3;7712
+714578283;Existing Customer;47;M;1;Graduate;Married;$60K - $80K;Blue;37;3;2053
+769574883;Existing Customer;41;M;2;High School;Married;$40K - $60K;Blue;32;1;12804
+717643608;Existing Customer;48;M;4;College;Married;$80K - $120K;Blue;36;3;26443
+709198158;Existing Customer;50;F;4;Graduate;Single;Less than $40K;Blue;36;2;3125
+712419708;Existing Customer;56;F;2;Post-Graduate;Married;Less than $40K;Blue;48;1;4930
+709103358;Existing Customer;39;F;2;College;Single;Less than $40K;Blue;36;3;9476
+716966808;Existing Customer;47;M;1;Graduate;Married;$80K - $120K;Blue;37;3;11722
+772264383;Existing Customer;44;M;2;Graduate;Single;$120K +;Blue;33;1;13301
+721057758;Existing Customer;61;F;1;Unknown;Married;Unknown;Blue;47;2;1438.3
+769137108;Attrited Customer;43;F;2;Post-Graduate;Married;Less than $40K;Blue;37;3;1438.3
+717640083;Attrited Customer;59;M;1;High School;Married;$60K - $80K;Blue;36;2;6705
+716445783;Existing Customer;42;F;2;Uneducated;Married;Unknown;Blue;31;2;22718
+708579633;Existing Customer;40;M;4;Unknown;Divorced;$40K - $60K;Gold;28;2;23981
+718715583;Existing Customer;65;M;2;Unknown;Married;Less than $40K;Blue;56;2;2318
+778686408;Existing Customer;48;M;1;College;Married;$60K - $80K;Blue;29;3;19324
+715015683;Existing Customer;44;M;2;Graduate;Single;$40K - $60K;Blue;34;3;5331
+805254708;Existing Customer;36;F;4;Unknown;Married;Unknown;Blue;31;2;15700
+710462433;Existing Customer;45;M;4;Graduate;Single;$60K - $80K;Blue;30;2;17625
+721342383;Existing Customer;39;M;2;Graduate;Married;$80K - $120K;Blue;34;3;17438
+720179883;Existing Customer;40;M;4;College;Unknown;$80K - $120K;Blue;25;3;1962
+794977533;Attrited Customer;62;M;0;High School;Married;$60K - $80K;Blue;56;3;8077
+779445108;Existing Customer;26;M;0;Graduate;Single;$40K - $60K;Blue;13;1;3290
+718193958;Existing Customer;60;M;0;Uneducated;Single;Less than $40K;Blue;53;3;2402
+710955633;Existing Customer;54;F;3;Doctorate;Single;Less than $40K;Blue;42;1;9256
+716149383;Existing Customer;62;M;0;Graduate;Married;$60K - $80K;Blue;36;3;3674
+752604633;Attrited Customer;57;M;2;College;Married;$40K - $60K;Blue;50;5;6462
+713889933;Existing Customer;59;M;0;Graduate;Single;$40K - $60K;Blue;48;2;1638
+709446783;Existing Customer;46;M;4;Graduate;Single;$60K - $80K;Blue;38;3;4335
+789115833;Existing Customer;44;M;4;High School;Single;$60K - $80K;Blue;32;3;3233
+711242058;Attrited Customer;48;M;4;Unknown;Single;$80K - $120K;Blue;36;3;11862
+787623858;Existing Customer;43;M;2;Uneducated;Divorced;$120K +;Silver;24;2;34516
+709040508;Existing Customer;57;M;4;Uneducated;Married;$120K +;Blue;38;6;19802
+708864708;Existing Customer;46;M;3;College;Unknown;$80K - $120K;Blue;36;2;24869
+717758583;Existing Customer;40;M;3;High School;Unknown;$60K - $80K;Blue;36;2;3624
+715416633;Existing Customer;54;M;1;Unknown;Married;$80K - $120K;Blue;36;1;6175
+717956283;Existing Customer;57;F;1;Graduate;Single;$40K - $60K;Blue;48;1;10953
+721379433;Existing Customer;44;M;4;Graduate;Married;$60K - $80K;Blue;28;2;11338
+712027683;Existing Customer;47;F;2;Doctorate;Married;Less than $40K;Blue;35;2;5544
+716027208;Existing Customer;47;M;4;Doctorate;Married;$60K - $80K;Blue;36;1;19665
+720475233;Existing Customer;50;F;2;High School;Married;Less than $40K;Blue;43;2;2927
+712275108;Existing Customer;53;F;3;College;Married;$40K - $60K;Blue;33;3;5146
+718121658;Attrited Customer;56;M;1;College;Married;$60K - $80K;Blue;44;3;1704
+711593808;Attrited Customer;55;M;1;High School;Married;$60K - $80K;Blue;46;2;1438.3
+716222808;Existing Customer;53;F;4;High School;Married;Less than $40K;Blue;36;1;2974
+718731183;Attrited Customer;61;M;1;Unknown;Married;$40K - $60K;Blue;49;2;5472
+788779008;Existing Customer;57;M;2;High School;Married;$60K - $80K;Blue;38;1;2736
+710404533;Existing Customer;50;M;2;Graduate;Married;$80K - $120K;Blue;37;2;1438.3
+711173058;Existing Customer;56;F;2;Unknown;Married;Unknown;Blue;45;3;5406
+715383108;Existing Customer;52;M;2;Graduate;Single;$120K +;Blue;44;1;34516
+711697158;Existing Customer;60;M;0;Graduate;Married;Less than $40K;Blue;36;2;1976
+709186983;Existing Customer;49;M;4;Uneducated;Married;$80K - $120K;Blue;40;1;8714
+808964433;Existing Customer;46;F;4;Doctorate;Divorced;Less than $40K;Blue;41;1;8693
+711948333;Existing Customer;42;M;1;Uneducated;Married;$80K - $120K;Blue;36;1;9247
+710541858;Existing Customer;45;M;3;High School;Married;Less than $40K;Blue;33;5;7717
+713865333;Attrited Customer;45;F;4;Uneducated;Married;Less than $40K;Blue;38;4;4908
+797707008;Attrited Customer;44;F;3;Doctorate;Married;Less than $40K;Blue;38;1;7222
+713490483;Existing Customer;61;M;0;Uneducated;Single;$80K - $120K;Blue;48;2;21740
+720370533;Attrited Customer;55;M;3;Uneducated;Married;$60K - $80K;Blue;44;2;2323
+779743908;Existing Customer;44;M;4;Unknown;Divorced;$60K - $80K;Blue;29;2;7788
+718675158;Attrited Customer;55;F;1;Unknown;Married;Less than $40K;Blue;36;1;1438.3
+710784333;Existing Customer;57;M;2;Unknown;Married;$120K +;Blue;36;2;23700
+816596583;Existing Customer;45;M;2;Doctorate;Married;$80K - $120K;Blue;40;3;11710
+717517758;Existing Customer;57;F;0;High School;Married;$40K - $60K;Blue;45;2;2278
+712880283;Existing Customer;31;M;0;Uneducated;Married;$40K - $60K;Blue;22;3;4048
+753226158;Existing Customer;34;F;2;Graduate;Married;Less than $40K;Blue;24;2;3663
+720605808;Attrited Customer;53;F;1;Graduate;Single;Less than $40K;Blue;36;2;1438.3
+758317233;Existing Customer;35;F;1;College;Single;Unknown;Blue;28;5;3518
+711028308;Existing Customer;44;F;4;Graduate;Married;Less than $40K;Blue;36;1;1717
+814852533;Existing Customer;50;M;1;Graduate;Married;$80K - $120K;Blue;45;2;16813
+711526533;Existing Customer;33;M;3;Post-Graduate;Married;$80K - $120K;Blue;25;2;16434
+804403908;Existing Customer;50;M;3;Graduate;Single;$60K - $80K;Blue;45;2;21872
+716999883;Existing Customer;51;M;4;High School;Married;$80K - $120K;Blue;41;2;15897
+716452083;Existing Customer;56;F;4;Unknown;Married;Less than $40K;Blue;46;3;4271
+787599258;Existing Customer;55;F;3;Graduate;Single;Less than $40K;Blue;29;1;7361
+714495258;Existing Customer;26;M;0;College;Single;Less than $40K;Blue;36;1;1438.3
+717713283;Existing Customer;42;F;3;Graduate;Married;Less than $40K;Blue;33;3;8628
+789317883;Existing Customer;54;M;2;College;Married;$80K - $120K;Blue;44;3;18750
+714500883;Existing Customer;44;F;3;Graduate;Married;Unknown;Blue;36;2;21242
+789467508;Existing Customer;65;F;0;Graduate;Married;$40K - $60K;Blue;56;3;2961
+710317758;Existing Customer;38;F;3;High School;Married;Unknown;Blue;29;2;11327
+711231558;Existing Customer;58;M;3;High School;Married;$60K - $80K;Blue;40;1;8308
+716829483;Existing Customer;39;F;3;Post-Graduate;Married;$40K - $60K;Blue;28;2;3249
+779713608;Existing Customer;52;M;2;High School;Married;$120K +;Blue;36;1;2981
+711628458;Existing Customer;45;F;3;Graduate;Married;Less than $40K;Blue;31;1;8829
+718943508;Existing Customer;42;M;3;Unknown;Single;$80K - $120K;Blue;33;3;3714
+770724558;Attrited Customer;42;M;2;College;Married;$60K - $80K;Blue;28;1;7340
+783561558;Existing Customer;57;M;4;Post-Graduate;Married;$120K +;Blue;51;2;16952
+719309958;Attrited Customer;55;M;3;Doctorate;Single;$80K - $120K;Blue;35;1;20865
+788785083;Existing Customer;44;F;3;College;Unknown;Less than $40K;Blue;25;3;3083
+780481308;Existing Customer;37;F;3;Graduate;Married;Unknown;Blue;24;2;10584
+711757383;Existing Customer;50;F;3;Unknown;Married;Less than $40K;Blue;42;1;2240
+787550808;Existing Customer;51;M;2;Graduate;Married;$40K - $60K;Blue;40;1;12240
+779863533;Existing Customer;37;M;1;Graduate;Married;$80K - $120K;Blue;21;2;5120
+714529233;Existing Customer;36;F;2;Graduate;Married;Less than $40K;Blue;24;1;3124
+708177333;Existing Customer;51;F;2;High School;Married;Less than $40K;Silver;36;3;11261
+812019933;Existing Customer;65;M;1;Uneducated;Married;$40K - $60K;Blue;56;3;2468
+708557358;Existing Customer;43;M;2;College;Married;$60K - $80K;Blue;28;2;22157
+713580633;Existing Customer;46;M;3;Graduate;Married;$40K - $60K;Blue;32;2;11477
+711466533;Existing Customer;43;F;2;Graduate;Married;Less than $40K;Blue;33;2;3933
+802276683;Existing Customer;56;M;3;Graduate;Married;$80K - $120K;Blue;50;3;8022
+780913308;Existing Customer;43;M;3;Unknown;Single;$60K - $80K;Blue;34;2;13771
+808897683;Attrited Customer;53;M;1;Graduate;Single;$80K - $120K;Blue;48;3;30271
+719428308;Existing Customer;50;M;2;High School;Unknown;$60K - $80K;Blue;41;2;3244
+713010483;Existing Customer;43;F;3;Graduate;Married;$40K - $60K;Blue;36;1;2936
+717006333;Existing Customer;54;M;3;High School;Married;$80K - $120K;Blue;36;1;1438.3
+787621158;Existing Customer;33;M;2;Unknown;Married;$60K - $80K;Blue;25;3;6242
+716924058;Existing Customer;58;F;2;Uneducated;Married;$40K - $60K;Blue;49;1;6175
+720916683;Existing Customer;41;M;3;Graduate;Single;$80K - $120K;Blue;26;3;11806
+720923658;Existing Customer;48;M;3;Post-Graduate;Single;$60K - $80K;Blue;39;2;4734
+712710708;Existing Customer;55;M;2;High School;Single;$40K - $60K;Blue;36;2;6244
+718939083;Attrited Customer;54;F;2;Graduate;Married;Less than $40K;Blue;45;1;1438.3
+779519058;Existing Customer;51;F;3;Post-Graduate;Divorced;Unknown;Platinum;34;1;34516
+719085933;Existing Customer;35;M;3;Graduate;Single;$80K - $120K;Blue;24;1;23561
+715124958;Existing Customer;50;M;3;Uneducated;Single;$80K - $120K;Blue;36;2;24742
+712979133;Attrited Customer;55;M;4;High School;Married;$80K - $120K;Blue;41;2;27560
+712006308;Existing Customer;45;F;0;College;Divorced;Less than $40K;Blue;35;1;5923
+710801133;Existing Customer;34;M;2;Uneducated;Married;$60K - $80K;Blue;36;1;8581
+712490283;Existing Customer;55;F;4;Graduate;Married;$40K - $60K;Blue;41;3;3156
+720071583;Attrited Customer;48;F;2;Unknown;Married;Less than $40K;Blue;36;1;7151
+717958833;Existing Customer;46;M;4;Graduate;Married;$60K - $80K;Blue;35;1;1535
+812420358;Attrited Customer;61;F;0;Graduate;Married;Less than $40K;Blue;56;3;2122
+712370208;Existing Customer;48;M;1;Uneducated;Unknown;$60K - $80K;Blue;35;2;17131
+715940358;Existing Customer;51;F;1;Graduate;Married;Less than $40K;Blue;42;2;5822
+715041333;Existing Customer;39;M;3;Doctorate;Married;$60K - $80K;Blue;29;1;3537
+712797258;Existing Customer;43;M;3;Graduate;Married;$120K +;Blue;33;1;34516
+769170558;Existing Customer;53;M;3;Graduate;Single;$60K - $80K;Blue;47;4;16320
+715884858;Existing Customer;38;M;2;High School;Married;$80K - $120K;Blue;36;3;2407
+796343058;Existing Customer;49;F;2;High School;Single;Less than $40K;Blue;43;1;3538
+783910008;Existing Customer;37;F;0;Unknown;Married;Less than $40K;Blue;31;2;2684
+718888308;Existing Customer;53;M;3;Graduate;Single;$80K - $120K;Blue;36;3;34516
+785114808;Existing Customer;46;M;2;Post-Graduate;Single;$40K - $60K;Silver;40;2;15459
+709852908;Existing Customer;44;F;3;Uneducated;Single;Less than $40K;Blue;36;3;4307
+823528833;Existing Customer;50;F;1;Unknown;Single;Less than $40K;Blue;46;2;2081
+719679858;Existing Customer;58;F;2;Uneducated;Married;$40K - $60K;Blue;47;2;2848
+827108583;Existing Customer;55;M;3;High School;Single;$120K +;Blue;51;1;34516
+787833333;Existing Customer;44;M;3;College;Unknown;$80K - $120K;Blue;35;1;6361
+719781183;Existing Customer;57;M;4;High School;Married;$80K - $120K;Blue;38;1;15428
+710429358;Existing Customer;57;M;1;High School;Married;$40K - $60K;Blue;48;1;2544
+798792408;Attrited Customer;48;M;3;High School;Married;$80K - $120K;Blue;42;1;9959
+710280558;Existing Customer;51;M;1;Graduate;Single;$60K - $80K;Blue;39;3;8796
+809825358;Existing Customer;53;F;3;Uneducated;Married;Less than $40K;Blue;48;1;3428
+714451833;Existing Customer;45;F;1;Doctorate;Single;Less than $40K;Blue;36;2;1438.3
+713943783;Existing Customer;41;M;4;Post-Graduate;Married;$60K - $80K;Blue;32;3;18001
+710706558;Existing Customer;51;F;4;Graduate;Single;Less than $40K;Blue;42;1;2680
+713620308;Existing Customer;46;F;2;High School;Married;Less than $40K;Blue;35;4;4675
+813453408;Existing Customer;40;F;5;College;Married;Less than $40K;Blue;35;1;2448
+818248383;Existing Customer;33;M;2;Doctorate;Married;$60K - $80K;Blue;28;3;4049
+780106908;Existing Customer;53;M;1;High School;Single;$80K - $120K;Blue;38;2;8154
+708938508;Existing Customer;63;M;1;High School;Married;$40K - $60K;Blue;36;3;4559
+709671708;Existing Customer;61;M;0;Uneducated;Single;$80K - $120K;Blue;36;2;19354
+711204483;Attrited Customer;56;M;4;High School;Married;$60K - $80K;Blue;46;3;2340
+801728658;Existing Customer;53;M;2;Graduate;Single;$60K - $80K;Blue;47;3;13848
+713945883;Attrited Customer;62;F;2;Graduate;Married;Less than $40K;Blue;52;2;2490
+779558733;Existing Customer;50;F;4;Unknown;Married;Unknown;Silver;36;1;32156
+788370258;Existing Customer;37;M;4;Graduate;Married;$60K - $80K;Blue;30;3;2578
+714927333;Existing Customer;62;F;0;Graduate;Married;Unknown;Blue;52;3;9050
+710383158;Existing Customer;49;M;3;Uneducated;Single;$80K - $120K;Silver;41;1;34516
+798007308;Existing Customer;57;F;3;High School;Married;Unknown;Blue;51;1;8362
+711768858;Existing Customer;55;M;2;High School;Married;$80K - $120K;Blue;36;2;6514
+714888633;Existing Customer;50;M;1;Graduate;Married;$80K - $120K;Blue;42;3;4051
+712650333;Existing Customer;48;M;3;College;Married;$60K - $80K;Blue;37;3;11959
+719945433;Existing Customer;60;F;1;Uneducated;Divorced;$40K - $60K;Blue;48;2;2070
+720310458;Existing Customer;46;M;1;Unknown;Single;$120K +;Blue;32;2;11840
+718344033;Existing Customer;47;M;2;College;Married;$120K +;Blue;35;3;3636
+715442958;Existing Customer;54;M;2;Uneducated;Married;$60K - $80K;Blue;36;3;11067
+780326883;Existing Customer;53;M;2;Doctorate;Married;$60K - $80K;Blue;40;3;11262
+711157833;Existing Customer;56;F;3;Graduate;Single;$40K - $60K;Blue;36;1;5108
+719704308;Existing Customer;56;F;4;High School;Married;$40K - $60K;Blue;36;1;2072
+708772308;Existing Customer;41;M;3;Uneducated;Married;$80K - $120K;Blue;24;3;4119
+817663908;Existing Customer;60;F;1;Graduate;Married;$40K - $60K;Blue;42;3;5903
+780054258;Existing Customer;40;M;5;Graduate;Unknown;$40K - $60K;Blue;25;2;7860
+709990983;Existing Customer;49;F;3;Post-Graduate;Married;$40K - $60K;Blue;36;2;5918
+818045958;Existing Customer;46;M;4;Graduate;Single;$40K - $60K;Blue;41;3;6741
+716380683;Existing Customer;36;F;3;High School;Married;Less than $40K;Blue;36;1;3880
+787480158;Existing Customer;57;F;2;Unknown;Married;Less than $40K;Blue;45;2;2494
+778461408;Existing Customer;38;M;1;High School;Married;$80K - $120K;Blue;23;3;22149
+713861733;Existing Customer;50;M;3;Graduate;Divorced;$80K - $120K;Blue;36;3;34516
+789291633;Existing Customer;62;M;0;Graduate;Married;$60K - $80K;Blue;51;2;5450
+789513858;Attrited Customer;43;M;3;Unknown;Married;$40K - $60K;Blue;35;2;1438.3
+778357458;Existing Customer;44;F;5;Unknown;Single;Less than $40K;Blue;24;3;2003
+718325883;Existing Customer;39;M;2;Uneducated;Single;$40K - $60K;Blue;32;3;7723
+720344658;Existing Customer;38;M;2;College;Married;$80K - $120K;Blue;23;1;18226
+809292483;Existing Customer;44;F;4;College;Married;Less than $40K;Blue;39;2;8128
+779791008;Existing Customer;43;M;3;High School;Married;$80K - $120K;Blue;32;2;5851
+779557533;Existing Customer;54;M;1;Post-Graduate;Single;$80K - $120K;Blue;40;3;10260
+795904233;Existing Customer;38;F;3;Unknown;Single;Unknown;Blue;32;1;26945
+710573808;Existing Customer;55;M;2;Unknown;Single;$60K - $80K;Blue;36;3;2243
+717418158;Existing Customer;42;M;5;Unknown;Unknown;$120K +;Blue;36;1;34516
+771963708;Attrited Customer;56;M;3;Unknown;Married;$60K - $80K;Blue;45;3;12248
+712433508;Attrited Customer;59;F;1;Unknown;Married;Unknown;Blue;50;2;1438.3
+779320983;Existing Customer;46;M;4;Uneducated;Single;$80K - $120K;Blue;28;3;19843
+718093233;Existing Customer;55;F;2;Post-Graduate;Married;Less than $40K;Blue;45;3;2163
+719459358;Existing Customer;52;M;1;Doctorate;Married;$120K +;Blue;41;2;33864
+717728808;Existing Customer;39;F;2;Graduate;Married;Less than $40K;Blue;26;1;4531
+788701608;Existing Customer;42;F;4;Graduate;Single;Less than $40K;Blue;26;2;2950
+778506633;Attrited Customer;43;F;4;College;Married;Less than $40K;Blue;23;2;7706
+719989008;Existing Customer;47;F;1;High School;Unknown;Unknown;Blue;36;1;25657
+791839233;Existing Customer;42;F;4;Unknown;Divorced;Unknown;Blue;36;3;17536
+716918508;Existing Customer;39;M;1;College;Single;$40K - $60K;Blue;24;3;3770
+717321783;Existing Customer;50;M;1;Uneducated;Single;$60K - $80K;Blue;45;2;10344
+799000008;Existing Customer;57;M;2;Post-Graduate;Divorced;$120K +;Blue;51;1;26437
+721517208;Existing Customer;41;M;4;Unknown;Married;Less than $40K;Blue;30;6;2450
+719068683;Existing Customer;52;F;1;High School;Married;$40K - $60K;Blue;36;1;3136
+709120008;Existing Customer;43;M;2;High School;Single;$60K - $80K;Blue;36;3;6976
+709117533;Existing Customer;42;M;3;High School;Single;$80K - $120K;Blue;36;3;21134
+816594183;Existing Customer;58;F;2;Uneducated;Married;$40K - $60K;Blue;53;2;2019
+789485433;Existing Customer;42;M;4;College;Married;$80K - $120K;Blue;34;2;34516
+712881483;Existing Customer;55;M;1;Post-Graduate;Married;$80K - $120K;Blue;45;3;9959
+712689333;Existing Customer;38;M;2;Unknown;Single;$80K - $120K;Blue;28;3;20241
+771492408;Existing Customer;40;F;2;Graduate;Married;Less than $40K;Blue;28;1;2421
+711668283;Existing Customer;48;M;4;Uneducated;Married;$80K - $120K;Blue;37;6;30948
+772684833;Existing Customer;32;F;1;Unknown;Married;Less than $40K;Blue;22;3;2642
+712960308;Existing Customer;33;F;2;High School;Single;Less than $40K;Blue;36;1;8070
+713530833;Attrited Customer;58;M;2;Graduate;Married;$40K - $60K;Blue;48;3;4085
+756065433;Existing Customer;26;M;0;Unknown;Single;$40K - $60K;Blue;19;2;2187
+710997183;Existing Customer;46;M;0;Unknown;Married;$60K - $80K;Gold;36;3;34516
+711146358;Existing Customer;39;F;1;Graduate;Married;Unknown;Blue;29;3;3358
+716144058;Existing Customer;36;F;1;College;Single;$40K - $60K;Blue;25;3;1888
+778699908;Attrited Customer;43;M;2;Uneducated;Married;$60K - $80K;Blue;24;3;14447
+713571258;Existing Customer;45;M;2;Unknown;Single;$60K - $80K;Silver;26;3;32349
+711676908;Existing Customer;51;F;3;College;Married;Unknown;Blue;36;2;12605
+719315508;Existing Customer;62;F;0;Unknown;Married;$40K - $60K;Blue;36;2;2964
+778623858;Existing Customer;58;M;0;Uneducated;Married;$80K - $120K;Blue;38;3;3785
+714665733;Existing Customer;42;M;4;Graduate;Single;$60K - $80K;Blue;36;1;2727
+816089433;Existing Customer;49;M;4;Doctorate;Married;$60K - $80K;Blue;44;1;3343
+716991933;Attrited Customer;53;F;3;Uneducated;Single;Less than $40K;Blue;35;3;9786
+714534108;Existing Customer;45;F;2;High School;Married;$40K - $60K;Blue;36;1;6407
+787456608;Existing Customer;29;M;2;High School;Married;$80K - $120K;Blue;15;2;4158
+717090183;Existing Customer;60;M;1;Doctorate;Married;$120K +;Blue;50;1;21697
+772782708;Existing Customer;50;M;3;Post-Graduate;Single;$80K - $120K;Blue;40;2;31383
+710722908;Existing Customer;53;M;3;Doctorate;Single;$120K +;Blue;36;1;30883
+795155433;Existing Customer;45;M;3;Unknown;Married;$80K - $120K;Blue;38;3;12918
+715271733;Existing Customer;50;F;2;Uneducated;Single;Less than $40K;Blue;37;3;8520
+771706308;Existing Customer;46;M;2;Doctorate;Single;$80K - $120K;Blue;34;3;14310
+713989233;Existing Customer;61;M;0;Post-Graduate;Married;Unknown;Blue;53;2;14434
+780198258;Existing Customer;46;M;4;College;Single;$120K +;Blue;36;2;7793
+802002858;Attrited Customer;62;F;1;High School;Married;Unknown;Blue;56;1;8990
+716290233;Existing Customer;43;F;3;Graduate;Married;$40K - $60K;Blue;33;2;4343
+828298908;Existing Customer;54;M;4;Graduate;Married;$120K +;Blue;50;2;2872
+788946783;Existing Customer;50;M;2;Unknown;Single;$120K +;Blue;36;1;9697
+720697908;Existing Customer;35;M;2;High School;Married;$40K - $60K;Blue;21;3;2967
+780598383;Existing Customer;35;M;3;Doctorate;Single;$40K - $60K;Blue;23;3;2148
+715345833;Existing Customer;36;F;1;High School;Single;Less than $40K;Blue;36;3;6116
+710831133;Existing Customer;42;M;3;Unknown;Married;$80K - $120K;Blue;36;2;18085
+766706358;Existing Customer;39;F;2;Unknown;Married;Less than $40K;Blue;32;3;2524
+816533733;Existing Customer;50;M;1;Unknown;Married;$80K - $120K;Blue;45;2;33951
+712373208;Attrited Customer;43;M;3;Doctorate;Single;$60K - $80K;Blue;35;3;3312
+721433283;Existing Customer;39;F;1;High School;Single;$40K - $60K;Blue;20;2;9956
+720680058;Existing Customer;47;M;2;Post-Graduate;Married;Less than $40K;Blue;36;1;3888
+716909283;Existing Customer;60;M;1;Post-Graduate;Single;$80K - $120K;Blue;48;1;30655
+754654383;Existing Customer;30;M;2;High School;Married;Less than $40K;Blue;23;2;2997
+719226333;Existing Customer;44;M;4;Unknown;Single;$60K - $80K;Blue;24;3;11042
+779759058;Existing Customer;52;M;0;Graduate;Single;$120K +;Blue;41;3;3386
+718206783;Existing Customer;45;F;4;Unknown;Single;Less than $40K;Gold;36;1;15987
+715783758;Existing Customer;40;M;4;Graduate;Divorced;$120K +;Blue;30;3;25188
+771190083;Existing Customer;36;F;3;Post-Graduate;Single;Less than $40K;Blue;23;2;2410
+713135883;Existing Customer;65;F;0;High School;Married;Unknown;Blue;53;3;4315
+778799583;Existing Customer;35;F;0;Unknown;Married;Less than $40K;Blue;24;1;2592
+808796208;Existing Customer;54;F;2;Unknown;Divorced;$40K - $60K;Blue;49;3;5476
+708313608;Existing Customer;53;M;3;Unknown;Married;$80K - $120K;Blue;43;3;2464
+779330208;Existing Customer;62;F;1;College;Married;Less than $40K;Blue;44;2;2378
+794498733;Existing Customer;40;M;2;Unknown;Single;$120K +;Blue;21;4;20056
+807964908;Existing Customer;41;M;4;High School;Married;$60K - $80K;Blue;36;2;8013
+823845783;Existing Customer;53;M;2;Unknown;Married;$120K +;Blue;49;2;3386
+711748983;Existing Customer;30;M;1;High School;Married;$60K - $80K;Blue;17;3;7906
+718064283;Existing Customer;46;M;3;Uneducated;Divorced;$60K - $80K;Blue;34;3;11501
+710492733;Existing Customer;29;M;0;Post-Graduate;Single;$40K - $60K;Blue;19;1;13632
+779016408;Existing Customer;37;F;3;Uneducated;Married;Less than $40K;Blue;27;1;2229
+717787533;Existing Customer;51;F;1;High School;Married;Less than $40K;Blue;40;1;5158
+714851058;Existing Customer;31;M;0;Graduate;Married;$40K - $60K;Blue;21;3;2158
+823535133;Existing Customer;45;M;2;Uneducated;Unknown;$80K - $120K;Blue;41;2;23271
+708455883;Attrited Customer;57;M;1;Graduate;Single;$80K - $120K;Blue;36;3;10244
+780095808;Existing Customer;43;M;3;Unknown;Divorced;$60K - $80K;Blue;30;2;2588
+709207458;Existing Customer;44;M;3;Graduate;Married;$40K - $60K;Blue;27;2;10747
+763895958;Attrited Customer;53;M;2;High School;Married;$120K +;Blue;46;3;7474
+715942683;Existing Customer;32;F;3;Graduate;Single;Less than $40K;Blue;36;1;3555
+721301733;Existing Customer;53;M;1;Graduate;Married;$80K - $120K;Blue;38;3;22140
+711927108;Attrited Customer;54;M;3;High School;Married;$80K - $120K;Blue;36;3;9457
+718083483;Existing Customer;42;M;3;Uneducated;Unknown;Less than $40K;Blue;35;5;6218
+717548358;Existing Customer;38;F;1;College;Married;Less than $40K;Blue;25;3;2580
+816829608;Existing Customer;44;M;2;Unknown;Married;$80K - $120K;Blue;39;2;1438.3
+713936583;Existing Customer;54;M;2;Graduate;Married;$60K - $80K;Blue;43;3;6224
+709682658;Existing Customer;37;F;4;High School;Single;$40K - $60K;Blue;36;3;3093
+793889508;Existing Customer;48;F;2;Graduate;Married;$40K - $60K;Blue;42;3;4076
+714648933;Existing Customer;55;F;3;Graduate;Married;Unknown;Blue;36;2;4861
+711556533;Existing Customer;43;F;1;Graduate;Unknown;Unknown;Blue;36;3;9851
+717420333;Existing Customer;37;M;1;High School;Single;$60K - $80K;Blue;26;3;7349
+768921933;Existing Customer;34;M;2;High School;Married;$60K - $80K;Blue;28;3;2853
+714311583;Existing Customer;46;F;4;Graduate;Single;Unknown;Blue;36;3;17023
+717707133;Existing Customer;32;M;1;Unknown;Single;$40K - $60K;Blue;24;2;10060
+716043258;Existing Customer;53;M;3;Unknown;Married;$40K - $60K;Blue;41;1;1595
+716343408;Existing Customer;46;M;3;Graduate;Divorced;$80K - $120K;Blue;38;2;8475
+718909158;Existing Customer;38;M;1;College;Married;Less than $40K;Blue;25;3;5559
+719471433;Existing Customer;31;F;0;Graduate;Married;Less than $40K;Blue;22;3;2917
+712763808;Existing Customer;38;M;2;Unknown;Single;$60K - $80K;Blue;36;3;6692
+711147483;Attrited Customer;46;F;3;Graduate;Single;Less than $40K;Blue;28;2;8551
+719788833;Existing Customer;47;M;3;High School;Married;$60K - $80K;Blue;36;2;10569
+715168983;Existing Customer;47;F;3;Graduate;Married;Less than $40K;Blue;36;2;7051
+714306258;Existing Customer;56;M;1;College;Married;$60K - $80K;Blue;46;2;10117
+713828208;Existing Customer;47;M;2;Uneducated;Unknown;$60K - $80K;Blue;36;2;8311
+710574558;Existing Customer;47;M;4;Graduate;Single;$80K - $120K;Blue;41;3;26442
+710947683;Existing Customer;64;F;0;Graduate;Married;Less than $40K;Blue;51;3;4920
+711113958;Existing Customer;37;F;3;Unknown;Married;Less than $40K;Blue;25;2;1438.3
+718923858;Existing Customer;42;M;1;College;Married;$60K - $80K;Silver;29;2;26750
+752666508;Existing Customer;41;M;4;College;Married;$80K - $120K;Silver;34;3;34516
+712672083;Existing Customer;65;F;0;High School;Married;Less than $40K;Blue;36;3;1438.3
+719863758;Existing Customer;49;F;3;Post-Graduate;Married;$40K - $60K;Blue;41;2;1869
+720990183;Attrited Customer;54;M;5;High School;Married;$60K - $80K;Blue;36;2;14539
+720718908;Existing Customer;46;M;3;Uneducated;Single;$120K +;Blue;36;1;26977
+721250358;Existing Customer;50;M;2;Unknown;Married;$40K - $60K;Blue;36;1;5426
+779773533;Existing Customer;50;F;3;Unknown;Married;Less than $40K;Blue;34;1;7623
+708249708;Existing Customer;48;F;1;Doctorate;Married;Less than $40K;Blue;39;3;4844
+713967783;Existing Customer;62;F;0;Unknown;Married;Unknown;Blue;52;1;2683
+779506158;Existing Customer;39;F;1;College;Married;Less than $40K;Blue;22;1;3214
+759823158;Existing Customer;46;M;1;Unknown;Married;$60K - $80K;Blue;39;3;5374
+716608608;Attrited Customer;41;M;2;Uneducated;Married;$80K - $120K;Blue;33;3;8004
+789528183;Existing Customer;39;F;2;Graduate;Married;Unknown;Blue;31;2;1438.3
+708895158;Existing Customer;46;M;2;Unknown;Married;$80K - $120K;Blue;34;3;2925
+824805858;Existing Customer;39;F;2;Uneducated;Single;Less than $40K;Blue;35;3;9235
+720840108;Existing Customer;44;M;0;Uneducated;Married;Less than $40K;Blue;24;3;8837
+787595658;Existing Customer;57;F;3;Unknown;Single;Less than $40K;Blue;29;1;8801
+720244983;Existing Customer;40;M;3;Unknown;Single;$40K - $60K;Blue;28;1;3563
+713220258;Existing Customer;65;F;0;High School;Married;Unknown;Blue;36;3;8138
+813469458;Existing Customer;26;F;1;Graduate;Single;$40K - $60K;Blue;20;3;1438.3
+788939358;Existing Customer;47;M;2;High School;Unknown;$60K - $80K;Blue;33;2;2458
+718870158;Existing Customer;47;M;4;High School;Married;$60K - $80K;Blue;34;2;4592
+788673708;Attrited Customer;57;F;2;High School;Married;$40K - $60K;Blue;45;1;1438.3
+711809283;Existing Customer;31;M;1;Unknown;Married;Less than $40K;Blue;36;3;1868
+816513108;Existing Customer;54;M;4;Graduate;Married;$60K - $80K;Blue;49;1;5269
+718594608;Existing Customer;43;F;2;Post-Graduate;Married;Unknown;Blue;36;3;20156
+823606983;Existing Customer;39;M;2;College;Married;$60K - $80K;Blue;35;3;7410
+717028158;Existing Customer;53;M;3;Graduate;Married;$120K +;Blue;44;2;12163
+788485908;Existing Customer;44;M;3;Unknown;Married;$60K - $80K;Blue;37;2;6224
+714472608;Existing Customer;59;M;0;College;Married;Less than $40K;Blue;49;3;4250
+710793783;Existing Customer;53;F;3;Graduate;Married;Unknown;Blue;40;3;12059
+794340033;Existing Customer;34;F;3;Uneducated;Married;$40K - $60K;Blue;28;1;2799
+716462658;Existing Customer;47;M;4;Doctorate;Single;$80K - $120K;Blue;36;1;18037
+718050033;Existing Customer;54;M;2;College;Married;$120K +;Blue;43;2;5657
+714023808;Existing Customer;42;F;2;Graduate;Married;Unknown;Blue;33;1;13770
+716341833;Existing Customer;53;F;3;College;Married;Less than $40K;Blue;44;2;4646
+719648358;Existing Customer;50;M;2;Graduate;Single;$80K - $120K;Blue;35;3;2514
+816600933;Attrited Customer;56;M;0;College;Married;$80K - $120K;Blue;51;2;14501
+714208533;Attrited Customer;43;M;3;High School;Married;$60K - $80K;Blue;36;3;8663
+713095533;Existing Customer;44;F;4;High School;Divorced;Less than $40K;Blue;36;3;2333
+809967783;Existing Customer;34;F;4;Graduate;Divorced;$40K - $60K;Blue;26;5;3038
+715848408;Existing Customer;61;M;1;Graduate;Unknown;$80K - $120K;Blue;52;6;8851
+714414483;Existing Customer;54;F;0;Unknown;Married;Less than $40K;Blue;44;3;2945
+708655983;Existing Customer;49;F;3;High School;Divorced;Unknown;Blue;40;3;5267
+720426708;Attrited Customer;56;M;3;High School;Single;$60K - $80K;Blue;45;1;8512
+713743158;Existing Customer;47;M;1;Graduate;Married;$60K - $80K;Blue;36;3;19063
+721279083;Existing Customer;53;M;4;Graduate;Single;$80K - $120K;Blue;33;3;5376
+779149683;Existing Customer;30;F;0;Graduate;Divorced;Unknown;Blue;13;1;7772
+714970458;Existing Customer;39;F;2;High School;Married;$40K - $60K;Blue;29;1;9173
+719070108;Existing Customer;44;M;2;Graduate;Married;$80K - $120K;Silver;35;1;34516
+715490733;Existing Customer;54;F;3;Uneducated;Single;Unknown;Blue;36;1;11975
+714989583;Existing Customer;46;M;2;Graduate;Married;$60K - $80K;Blue;36;2;15405
+820355433;Existing Customer;43;M;3;Unknown;Single;$40K - $60K;Blue;38;1;2615
+715901508;Existing Customer;35;M;1;High School;Married;$80K - $120K;Blue;25;1;23991
+710370483;Existing Customer;39;F;4;College;Married;Less than $40K;Blue;31;3;1888
+778573233;Existing Customer;61;F;1;Graduate;Married;Less than $40K;Blue;54;2;3102
+708833133;Existing Customer;40;F;3;Graduate;Divorced;Less than $40K;Blue;29;2;3170
+719885883;Existing Customer;53;M;3;College;Single;$120K +;Blue;36;2;34516
+712523283;Existing Customer;55;M;2;Unknown;Married;$120K +;Blue;41;3;14938
+711309033;Existing Customer;41;M;2;Unknown;Single;$60K - $80K;Blue;24;2;17298
+708134283;Existing Customer;35;M;2;Uneducated;Married;Less than $40K;Blue;36;3;3131
+720147633;Existing Customer;61;M;1;Unknown;Single;$40K - $60K;Blue;47;2;11915
+708983658;Attrited Customer;51;M;2;Uneducated;Single;$120K +;Blue;39;3;16868
+766285608;Existing Customer;42;M;3;High School;Single;$40K - $60K;Blue;35;3;3266
+779715108;Existing Customer;46;M;2;Unknown;Divorced;$80K - $120K;Blue;30;3;2770
+798035358;Existing Customer;46;F;4;High School;Single;Less than $40K;Blue;40;2;3556
+719391783;Existing Customer;46;M;4;Uneducated;Married;$40K - $60K;Blue;35;2;9149
+809342208;Existing Customer;26;M;0;Graduate;Single;Unknown;Blue;19;1;1438.3
+780713058;Existing Customer;46;M;3;High School;Married;$60K - $80K;Blue;35;3;14701
+779338683;Existing Customer;62;M;1;Graduate;Married;$60K - $80K;Blue;44;2;14825
+783387783;Existing Customer;55;M;2;Uneducated;Divorced;$60K - $80K;Blue;49;5;10127
+787800108;Existing Customer;55;M;2;College;Married;$80K - $120K;Blue;45;1;2929
+721397808;Existing Customer;32;M;0;High School;Married;$40K - $60K;Blue;24;2;3735
+778698408;Existing Customer;37;F;4;Uneducated;Married;Less than $40K;Blue;18;1;2930
+709545333;Existing Customer;33;F;4;High School;Single;Unknown;Blue;29;2;12716
+716032233;Existing Customer;42;M;2;College;Married;$80K - $120K;Blue;32;2;22120
+717835908;Existing Customer;33;M;2;Post-Graduate;Married;$80K - $120K;Blue;22;3;1438.3
+719466558;Existing Customer;60;F;0;High School;Single;Unknown;Blue;36;2;4546
+778663458;Attrited Customer;65;M;1;High School;Married;Less than $40K;Blue;47;2;1759
+716024808;Attrited Customer;57;M;1;Graduate;Married;$80K - $120K;Blue;36;3;4829
+713008308;Existing Customer;59;F;0;Unknown;Married;Less than $40K;Blue;47;3;7692
+794831733;Existing Customer;45;F;5;Graduate;Married;Less than $40K;Blue;39;3;2156
+713854608;Existing Customer;62;M;1;Uneducated;Married;$60K - $80K;Blue;36;3;9521
+715993608;Existing Customer;51;M;2;College;Single;$120K +;Blue;41;3;26714
+789368658;Existing Customer;57;M;2;Graduate;Married;$80K - $120K;Blue;47;2;2092
+802817358;Existing Customer;38;F;3;High School;Married;Unknown;Blue;32;2;11594
+708098133;Existing Customer;32;F;0;Graduate;Married;Less than $40K;Blue;19;1;2834
+801499908;Existing Customer;43;F;4;Graduate;Married;Less than $40K;Blue;37;3;4724
+824770683;Existing Customer;51;F;0;Unknown;Divorced;Less than $40K;Blue;47;4;3049
+718310733;Existing Customer;50;M;2;Unknown;Divorced;$80K - $120K;Blue;36;3;20614
+708162558;Existing Customer;64;F;0;Uneducated;Married;Unknown;Blue;54;1;3250
+721129383;Existing Customer;53;F;1;Doctorate;Married;Less than $40K;Blue;36;1;3128
+721249158;Attrited Customer;42;M;2;Uneducated;Single;$60K - $80K;Blue;30;2;6414
+721049658;Existing Customer;53;M;3;Graduate;Single;$80K - $120K;Blue;34;3;2506
+806392908;Existing Customer;52;F;4;High School;Single;Unknown;Blue;47;2;7469
+714886533;Existing Customer;60;F;2;High School;Married;Less than $40K;Blue;36;3;3460
+772375533;Existing Customer;30;M;1;Graduate;Married;$80K - $120K;Blue;19;3;9959
+826775058;Existing Customer;43;F;3;Uneducated;Married;Less than $40K;Blue;39;1;4175
+711878733;Existing Customer;60;M;1;Uneducated;Married;$60K - $80K;Blue;48;1;10264
+714550383;Existing Customer;46;M;2;High School;Single;$40K - $60K;Blue;36;3;4129
+712636308;Existing Customer;65;F;2;High School;Married;$40K - $60K;Blue;45;2;2658
+772139433;Existing Customer;44;F;2;College;Single;$40K - $60K;Blue;33;2;4589
+709058808;Existing Customer;56;F;2;College;Married;Less than $40K;Blue;36;1;2781
+813240408;Existing Customer;45;F;4;High School;Married;Unknown;Blue;39;3;24880
+767753958;Existing Customer;37;M;3;Graduate;Unknown;$40K - $60K;Blue;31;1;8504
+710111733;Existing Customer;48;M;2;High School;Married;$80K - $120K;Blue;39;1;8091
+761544333;Existing Customer;37;F;4;College;Married;$40K - $60K;Blue;30;4;3417
+788814783;Existing Customer;39;M;1;Uneducated;Single;$60K - $80K;Blue;22;3;9204
+715034358;Existing Customer;41;M;2;Graduate;Married;$120K +;Blue;32;2;14302
+709624533;Existing Customer;55;F;2;High School;Married;Less than $40K;Blue;45;2;3187
+709942383;Existing Customer;34;M;1;Graduate;Married;$80K - $120K;Blue;36;3;6313
+803957508;Existing Customer;52;M;2;Unknown;Single;$80K - $120K;Blue;47;1;15904
+713378133;Existing Customer;54;F;0;Post-Graduate;Single;Less than $40K;Silver;39;2;11696
+709217358;Existing Customer;40;M;3;Post-Graduate;Married;$80K - $120K;Blue;36;3;20371
+720998358;Existing Customer;52;M;0;High School;Married;$120K +;Silver;41;3;34516
+721051908;Existing Customer;45;M;3;Graduate;Single;$60K - $80K;Blue;33;1;7552
+715232058;Existing Customer;61;M;0;Post-Graduate;Married;$40K - $60K;Blue;53;1;5561
+806250783;Existing Customer;57;F;2;High School;Married;Less than $40K;Blue;52;3;1441
+817245183;Existing Customer;51;M;2;Unknown;Unknown;$120K +;Blue;33;2;19715
+713670333;Existing Customer;60;M;1;Unknown;Single;Less than $40K;Blue;52;3;2486
+826477083;Existing Customer;48;F;2;College;Married;Less than $40K;Blue;44;1;4570
+788728608;Existing Customer;34;M;0;High School;Married;$40K - $60K;Blue;13;3;3870
+717190533;Existing Customer;49;M;4;High School;Married;$60K - $80K;Blue;36;3;12938
+716580033;Existing Customer;53;M;3;High School;Married;$120K +;Blue;36;1;21178
+711644508;Existing Customer;34;M;2;Uneducated;Single;$80K - $120K;Blue;36;2;12182
+714334383;Existing Customer;54;M;2;Graduate;Married;$60K - $80K;Blue;42;2;3583
+720611058;Existing Customer;40;M;3;Graduate;Single;$120K +;Blue;27;2;17018
+712420833;Existing Customer;49;F;5;College;Single;Unknown;Blue;41;3;16031
+713845083;Attrited Customer;41;F;4;High School;Single;Less than $40K;Blue;36;2;4203
+713756508;Existing Customer;46;M;3;Graduate;Divorced;Less than $40K;Blue;36;1;4213
+735565158;Existing Customer;46;M;4;Graduate;Married;$60K - $80K;Blue;33;2;21548
+714131058;Existing Customer;30;M;0;Graduate;Unknown;$60K - $80K;Blue;36;5;18513
+717180633;Existing Customer;59;M;1;Post-Graduate;Married;$40K - $60K;Blue;36;2;2483
+717295683;Existing Customer;50;M;0;Doctorate;Single;$80K - $120K;Blue;38;2;3460
+713128833;Existing Customer;49;M;2;Unknown;Unknown;$60K - $80K;Blue;36;3;6511
+813499458;Attrited Customer;45;M;5;High School;Unknown;$60K - $80K;Blue;40;3;1438.3
+710070183;Existing Customer;53;F;1;High School;Single;Less than $40K;Blue;36;2;2615
+789605658;Existing Customer;42;F;1;Doctorate;Married;$40K - $60K;Blue;35;3;2985
+710045058;Existing Customer;46;M;5;High School;Married;$40K - $60K;Silver;28;1;18797
+710164683;Existing Customer;33;M;1;Graduate;Married;$60K - $80K;Blue;22;1;2859
+710802258;Existing Customer;46;F;2;Graduate;Married;Less than $40K;Blue;38;3;2888
+721036233;Existing Customer;61;M;0;High School;Married;$60K - $80K;Blue;36;3;9172
+710036508;Existing Customer;42;M;5;Uneducated;Married;$40K - $60K;Blue;34;3;14281
+717776808;Existing Customer;47;F;4;Graduate;Single;Less than $40K;Blue;39;2;7353
+714906033;Existing Customer;47;F;2;Graduate;Single;Less than $40K;Blue;36;2;5145
+714273708;Existing Customer;53;F;4;Graduate;Married;$40K - $60K;Blue;36;2;4753
+721117533;Existing Customer;46;F;3;Graduate;Single;Less than $40K;Blue;26;3;2171
+715374558;Existing Customer;26;M;0;College;Divorced;Less than $40K;Blue;36;2;4150
+824807658;Existing Customer;45;M;3;Graduate;Married;$60K - $80K;Blue;41;3;9106
+714940608;Existing Customer;36;M;2;High School;Divorced;$40K - $60K;Blue;36;3;2686
+824782008;Existing Customer;42;M;3;High School;Unknown;$60K - $80K;Blue;38;1;10239
+717561108;Existing Customer;52;M;1;Graduate;Married;$80K - $120K;Blue;36;3;34516
+717127083;Existing Customer;37;M;3;Graduate;Married;$120K +;Blue;25;3;15017
+772460508;Existing Customer;53;M;1;Uneducated;Married;$40K - $60K;Blue;43;1;4426
+720484908;Existing Customer;65;F;1;Post-Graduate;Married;$40K - $60K;Blue;52;3;2155
+771237933;Existing Customer;47;M;1;Uneducated;Unknown;$80K - $120K;Blue;34;1;20620
+794664183;Existing Customer;38;M;0;Uneducated;Married;$60K - $80K;Blue;19;1;3238
